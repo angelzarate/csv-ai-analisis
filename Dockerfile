@@ -1,40 +1,25 @@
-FROM python:3.14-slim AS builder
+FROM python:3.13-slim
 
-ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1 \
-    PIP_NO_CACHE_DIR=1 \
-    PIP_DISABLE_PIP_VERSION_CHECK=1
-
-WORKDIR /app
-
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends build-essential \
-    && rm -rf /var/lib/apt/lists/*
-
-COPY pyproject.toml README.md ./
-COPY app ./app
-COPY main.py ./main.py
-COPY alembic.ini ./alembic.ini
-COPY migrations ./migrations
-
-RUN python -m pip install --upgrade pip \
-    && python -m pip install .
-
-FROM python:3.14-slim AS runtime
-
-ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1 \
-    PORT=8000 \    
-    PYTHONPATH=/app
+# Configuración de Python
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-RUN mkdir -p /app/storage
+# Instalar uv
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
-COPY --from=builder /usr/local /usr/local
+# Copiar archivos de dependencias primero (aprovecha la caché)
+COPY pyproject.toml uv.lock* ./
+
+# Instalar dependencias
+RUN uv sync --frozen --no-dev
+
+# Copiar el código
 COPY . .
 
+# Puerto de FastAPI
 EXPOSE 8000
 
-CMD ["sh", "-c", "alembic upgrade head && exec uvicorn main:app --host 0.0.0.0 --port ${PORT}"]
-
+# Ejecutar migraciones y levantar la API
+CMD ["sh", "-c", "uv run alembic upgrade head && uv run uvicorn main:app --host 0.0.0.0 --port 8000"]

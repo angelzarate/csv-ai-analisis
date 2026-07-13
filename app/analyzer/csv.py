@@ -26,6 +26,9 @@ class CSVLoader:
         return True
 
 
+    @property
+    def df_clear(self) -> pd.DataFrame:
+        return self.df.fillna("").drop_duplicates(subset=["id_solicitud"], keep="first")
 
     def validate_data(self) :
         if self.df.empty:

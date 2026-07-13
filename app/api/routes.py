@@ -56,7 +56,7 @@ async def upload_reqs(
         loader_serv.load(file)
         loader_serv.validate()
         logger.info("Analizando ,....   ")
-        results = await serv.batch_requests(loader_serv.df.fillna(""))
+        results = await serv.batch_requests(loader_serv.df_clear)
         logger.info("Result ....")
         logger.info(results)
         return results

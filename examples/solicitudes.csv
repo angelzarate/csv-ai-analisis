@@ -1,0 +1,26 @@
+id_solicitud,cliente,canal,fecha,descripcion,producto,ciudad,prioridad_manual,comentarios_adicionales
+SOL-001,Laura Torrez,WhatsApp,2026-07-07,"Pésima atención telefónica, me colgaron dos veces seguidas.",Soporte Técnico,CDMX,Alta,Paquete dañado.
+SOL-002,Elena Vasquez,Web,2026-07-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Mérida,Media,Cliente nuevo.
+SOL-003,Ana Gómez,Correo,2026-07-06,"Mi app no carga desde la última actualización, necesito transferir dinero urgente.",Smart TV 55,Guadalajara,Baja,Cliente nuevo.
+SOL-004,Luis Hernández,Llamada,2026-07-05,"Buenas tardes, quería saber cómo funciona la plataforma informática.",Smart TV 55,Guadalajara,Baja,Cliente nuevo.
+SOL-005,María Rodríguez,Correo,2026-07-08,El producto me llegó roto de una esquina. Adjunto foto.,Smart TV 55,Mérida,Media,Cliente molesto.
+SOL-006,Laura Torrez,WhatsApp,2026-07-04,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Monterrey,Baja,Cliente nuevo.
+SOL-007,Sofía Martínez,Web,2026-07-11,Quiero cambiar mi dirección de entrega para el pedido de ayer.,Smart TV 55,Puebla,Media,Cliente molesto.
+SOL-008,Laura Torrez,Web,2026-07-09,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Puebla,Alta,Cliente molesto.
+SOL-009,Carlos Mendoza,Llamada,2026-07-05,¿Me pueden emitir factura con los datos fiscales que registré?,Banca Móvil,Mérida,Alta,Seguimiento urgente.
+SOL-010,Luis Hernández,Web,2026-07-10,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,CDMX,Media,Seguimiento urgente.
+SOL-011,Sofía Martínez,Web,2026-07-07,"Excelente servicio, el repartidor llegó muy rápido hoy.",Smart TV 55,Guadalajara,Baja,Cliente nuevo.
+SOL-012,Roberto Flores,Correo,2026-07-02,"Buenas tardes, quería saber cómo funciona la plataforma informática.",Smart TV 55,Monterrey,Alta,Seguimiento urgente.
+SOL-013,Roberto Flores,Llamada,2026-07-06,"No puedo restablecer mi contraseña, el enlace de recuperación está expirado.",Smart TV 55,Guadalajara,Alta,Llamada cortada.
+SOL-014,Carlos Mendoza,Web,2026-07-06,El producto me llegó roto de una esquina. Adjunto foto.,Banca Móvil,Monterrey,Media,Paquete dañado.
+SOL-015,Laura Torrez,Correo,2026-07-07,"Pésima atención telefónica, me colgaron dos veces seguidas.",Suscripción Premium,Mérida,Media,Llamada cortada.
+SOL-016,Elena Vasquez,Llamada,2026-07-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Puebla,Media,Seguimiento urgente.
+SOL-017,Luis Hernández,Web,2026-07-09,"Excelente servicio, el repartidor llegó muy rápido hoy.",Smart TV 55,Guadalajara,Baja,Paquete dañado.
+SOL-018,Ana Gómez,Llamada,2026-07-01,"Mi app no carga desde la última actualización, necesito transferir dinero urgente.",Smart TV 55,Mérida,Alta,Cliente molesto.
+SOL-019,María Rodríguez,WhatsApp,2026-07-03,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado.,Soporte Técnico,Puebla,Media,Seguimiento urgente.
+SOL-020,Elena Vasquez,Llamada,2026-07-09,"Pésima atención telefónica, me colgaron dos veces seguidas.",Producto X,Monterrey,Baja,Paquete dañado.
+SOL-001,Laura Torrez,WhatsApp,2026-07-07,"Pésima atención telefónica, me colgaron dos veces seguidas.",Soporte Técnico,CDMX,Alta,Paquete dañado.
+SOL-018,Ana Gómez,Llamada,2026-07-01,"Mi app no carga desde la última actualización, necesito transferir dinero urgente.",Smart TV 55,Mérida,Alta,Cliente molesto.
+SOL-016,Elena Vasquez,Llamada,2026-07-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Puebla,Media,Seguimiento urgente.
+SOL-002,Elena Vasquez,Web,2026-07-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Mérida,Media,Cliente nuevo.
+SOL-009,Carlos Mendoza,Llamada,2026-07-05,¿Me pueden emitir factura con los datos fiscales que registré?,Banca Móvil,Mérida,Alta,Seguimiento urgente.

@@ -1,0 +1,1001 @@
+id_solicitud,cliente,canal,fecha,descripción,producto,ciudad,prioridad_manual,comentarios_adicionales
+SOL-0522,,Llamada,2026-07-04,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0738,Alejandro Ruiz,App Móvil,2026-06-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,Guadalajara,Media,
+SOL-0741,Carmen Jiménez,Correo,2026-06-12,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Smart TV 55,Mérida,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0661,Luis Hernández,Llamada,2026-06-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,CDMX,Urgente,
+SOL-0412,Ricardo Morales,Correo,2026-06-19,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,Monterrey,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0679,Gabriela López,WhatsApp,2026-06-04,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,,,
+SOL-0627,Lucía Méndez,App Móvil,2026-06-18,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Querétaro,Media,
+SOL-0514,Carmen Jiménez,,2026-06-20,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,,Media,Dejar nota para el equipo de finanzas.
+SOL-0860,Elena Vasquez,Chatbot,2026-07-08,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,León,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0137,Pedro Castillo,Chatbot,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Puebla,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0812,Fernando Ortiz,App Móvil,2026-06-13,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Logística,León,Alta,
+SOL-0077,Fernando Ortiz,Llamada,2026-06-27,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Querétaro,,
+SOL-0637,Ricardo Morales,App Móvil,2026-06-23,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,Guadalajara,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0094,,Chatbot,2026-07-05,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,CDMX,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0478,Alejandro Ruiz,,2026-06-12,,Suscripción Premium,Guadalajara,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0900,Pedro Castillo,,2026-06-05,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,León,Baja,
+SOL-0281,María Rodríguez,Chatbot,2026-06-26,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,CDMX,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0884,Carlos Mendoza,App Móvil,2026-07-01,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Tijuana,Baja,Requiere seguimiento por correo al final del día.
+SOL-0762,Diego Delgado,Web,2026-07-04,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,Puebla,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0320,Carmen Jiménez,Correo,2026-06-21,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Tijuana,,El cliente agradeció la explicación inicial.
+SOL-0550,Laura Torrez,Llamada,2026-06-04,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,CDMX,Urgente,
+SOL-0175,,Correo,2026-06-30,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,,Alta,Requiere seguimiento por correo al final del día.
+SOL-0372,Carlos Mendoza,Chatbot,2026-07-03,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Monterrey,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0528,Carlos Mendoza,Correo,2026-06-13,,Suscripción Premium,Puebla,,Es un cliente potencial nuevo.
+SOL-0211,Laura Torrez,Correo,2026-06-12,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Tijuana,,Es un cliente potencial nuevo.
+SOL-0236,María Rodríguez,Llamada,,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Tijuana,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0102,Gabriela López,Web,2026-06-02,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,,Baja,Paquete maltratado por la paquetería.
+SOL-0729,Elena Vasquez,Llamada,2026-06-27,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0903,Pedro Castillo,Correo,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,,Urgente,El cliente agradeció la explicación inicial.
+SOL-0282,María Rodríguez,Chatbot,2026-07-03,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Querétaro,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0347,,Llamada,2026-06-06,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,Monterrey,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0140,Sofía Martínez,Correo,2026-07-05,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,Monterrey,,Cliente molesto porque no puede pagar su renta.
+SOL-0622,,WhatsApp,2026-07-05,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,Querétaro,,Paquete maltratado por la paquetería.
+SOL-0500,Laura Torrez,,,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,León,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0371,Ricardo Morales,Chatbot,2026-07-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Puebla,Baja,
+SOL-0199,Pedro Castillo,Web,2026-06-29,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Guadalajara,Media,Es un cliente potencial nuevo.
+SOL-0688,Juan Pérez,Chatbot,,,Soporte Técnico,Monterrey,,
+SOL-0585,,Web,2026-07-11,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Querétaro,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0902,Javier Ríos,WhatsApp,2026-06-29,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,,Alta,
+SOL-0060,Alejandro Ruiz,Web,2026-07-10,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,,,El cliente agradeció la explicación inicial.
+SOL-0329,Roberto Flores,WhatsApp,2026-06-22,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,Tijuana,Urgente,
+SOL-0097,,Web,2026-06-06,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Mérida,,
+SOL-0313,Fernando Ortiz,,2026-06-03,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Monterrey,Alta,
+SOL-0227,Patricia Silva,Chatbot,2026-07-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Monterrey,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0300,Elena Vasquez,,2026-06-28,¿Tienen stock disponible del modelo avanzado en color negro?,Smart TV 55,Puebla,Media,
+SOL-0278,Ricardo Morales,Web,2026-07-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Guadalajara,Baja,
+SOL-0925,Laura Torrez,WhatsApp,2026-06-14,¿Tienen stock disponible del modelo avanzado en color negro?,Suscripción Premium,Querétaro,Media,Dejar nota para el equipo de finanzas.
+SOL-0602,,WhatsApp,2026-06-01,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Monterrey,Urgente,
+SOL-0440,Diego Delgado,Web,2026-07-05,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,,,Solicita hablar con un supervisor de inmediato.
+SOL-0838,Luis Hernández,,2026-06-01,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,CDMX,Media,Es un cliente potencial nuevo.
+SOL-0571,Juan Pérez,WhatsApp,2026-07-09,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0880,Roberto Flores,,2026-06-28,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,León,Media,Dejar nota para el equipo de finanzas.
+SOL-0262,Pedro Castillo,Chatbot,2026-06-15,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Guadalajara,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0579,Ana Gómez,Chatbot,2026-06-21,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,Guadalajara,Baja,Requiere seguimiento por correo al final del día.
+SOL-0024,Pedro Castillo,Llamada,2026-06-16,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Guadalajara,,
+SOL-0031,Sofía Martínez,Llamada,2026-06-15,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,León,Alta,El cliente agradeció la explicación inicial.
+SOL-0618,Alejandro Ruiz,WhatsApp,2026-07-05,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Guadalajara,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0011,Carmen Jiménez,Llamada,2026-06-14,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Puebla,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0222,Javier Ríos,Chatbot,2026-06-07,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Guadalajara,,El cliente agradeció la explicación inicial.
+SOL-0821,Roberto Flores,App Móvil,2026-06-21,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,León,Media,Es un cliente potencial nuevo.
+SOL-0297,Alejandro Ruiz,Llamada,2026-06-15,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Monterrey,,El cliente agradeció la explicación inicial.
+SOL-0055,Fernando Ortiz,App Móvil,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0543,,Web,2026-07-08,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,León,Baja,Paquete maltratado por la paquetería.
+SOL-0210,María Rodríguez,App Móvil,2026-06-28,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,León,Baja,Es un cliente potencial nuevo.
+SOL-0605,Lucía Méndez,Llamada,2026-07-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,,,
+SOL-0693,Juan Pérez,Chatbot,2026-06-20,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Querétaro,,Requiere seguimiento por correo al final del día.
+SOL-0663,,Chatbot,2026-06-02,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Monterrey,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0867,Laura Torrez,WhatsApp,2026-07-07,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Guadalajara,,Paquete maltratado por la paquetería.
+SOL-0071,Elena Vasquez,Web,2026-06-07,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Querétaro,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0544,Fernando Ortiz,Llamada,2026-07-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Guadalajara,Baja,
+SOL-0108,Ana Gómez,Chatbot,2026-06-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Querétaro,,Dejar nota para el equipo de finanzas.
+SOL-0494,,,2026-06-17,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Logística,,Urgente,
+SOL-0591,Alejandro Ruiz,App Móvil,2026-06-28,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Suscripción Premium,Puebla,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0742,Patricia Silva,App Móvil,2026-06-26,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,León,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0293,Fernando Ortiz,Llamada,2026-07-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,Puebla,Baja,
+SOL-0290,Luis Hernández,WhatsApp,2026-07-09,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Puebla,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0653,Sofía Martínez,,2026-06-02,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Guadalajara,Urgente,
+SOL-0040,Ana Gómez,,2026-07-05,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Querétaro,Alta,El cliente agradeció la explicación inicial.
+SOL-0590,,Web,2026-06-14,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Puebla,Baja,
+SOL-0308,Fernando Ortiz,App Móvil,2026-07-11,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Tijuana,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0680,Sofía Martínez,Correo,2026-06-08,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,Mérida,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0067,María Rodríguez,Web,2026-07-01,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,Querétaro,Alta,Dejar nota para el equipo de finanzas.
+SOL-0276,María Rodríguez,,2026-06-09,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Monterrey,Media,Dejar nota para el equipo de finanzas.
+SOL-0068,Gabriela López,WhatsApp,2026-06-26,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,,,
+SOL-0319,Mónica Vargas,Correo,2026-06-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,León,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0549,Alejandro Ruiz,Correo,2026-06-29,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Puebla,Alta,El cliente agradeció la explicación inicial.
+SOL-0156,Luis Hernández,Chatbot,2026-06-10,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Tijuana,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0715,Alejandro Ruiz,Web,2026-07-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,CDMX,,Solicita hablar con un supervisor de inmediato.
+SOL-0754,,,2026-06-06,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Tijuana,,Solicita hablar con un supervisor de inmediato.
+SOL-0328,Javier Ríos,Correo,2026-06-05,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,León,Media,Dejar nota para el equipo de finanzas.
+SOL-0383,Carlos Mendoza,Web,2026-06-29,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Querétaro,Alta,
+SOL-0452,Roberto Flores,Web,2026-07-09,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,Guadalajara,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0523,,App Móvil,2026-07-10,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Puebla,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0219,Ricardo Morales,Chatbot,2026-06-27,,Facturación,León,Media,Dejar nota para el equipo de finanzas.
+SOL-0788,Ana Gómez,WhatsApp,2026-06-21,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Monterrey,,Solicita hablar con un supervisor de inmediato.
+SOL-0437,Ricardo Morales,WhatsApp,2026-06-15,¿Tienen stock disponible del modelo avanzado en color negro?,Smart TV 55,León,Baja,Requiere seguimiento por correo al final del día.
+SOL-0765,Alejandro Ruiz,Web,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,CDMX,,
+SOL-0089,Laura Torrez,WhatsApp,2026-06-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,Tijuana,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0064,Ricardo Morales,Chatbot,2026-06-23,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Mérida,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0827,Pedro Castillo,Correo,2026-06-14,,Producto X,Monterrey,,"El cliente suena confundido, se cortó la llamada."
+SOL-0717,Roberto Flores,WhatsApp,,¿Tienen stock disponible del modelo avanzado en color negro?,Soporte Técnico,Tijuana,,
+SOL-0352,María Rodríguez,Llamada,2026-07-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Guadalajara,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0108,Ana Gómez,Chatbot,2026-06-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Querétaro,,Dejar nota para el equipo de finanzas.
+SOL-0257,Carlos Mendoza,Chatbot,2026-06-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Smart TV 55,Monterrey,Alta,
+SOL-0636,,,2026-06-18,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,CDMX,Urgente,
+SOL-0645,Carmen Jiménez,Llamada,2026-06-14,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,León,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0555,Elena Vasquez,WhatsApp,2026-07-10,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Mérida,,
+SOL-0629,Luis Hernández,WhatsApp,2026-06-24,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Monterrey,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0169,Carlos Mendoza,Web,2026-06-07,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Monterrey,,El cliente agradeció la explicación inicial.
+SOL-0918,Javier Ríos,WhatsApp,2026-07-03,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0529,Ricardo Morales,App Móvil,2026-06-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Mérida,Urgente,Paquete maltratado por la paquetería.
+SOL-0824,Luis Hernández,,2026-06-28,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,León,Urgente,Es un cliente potencial nuevo.
+SOL-0466,María Rodríguez,Chatbot,2026-07-02,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0817,,WhatsApp,2026-06-27,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Monterrey,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0087,Sofía Martínez,Correo,2026-06-17,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,Monterrey,Alta,Es un cliente potencial nuevo.
+SOL-0433,Diego Delgado,App Móvil,2026-07-01,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,,Urgente,
+SOL-0185,Diego Delgado,Chatbot,2026-06-01,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Monterrey,,
+SOL-0452,Roberto Flores,Web,2026-07-09,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,Guadalajara,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0535,Elena Vasquez,,2026-06-05,,Banca Móvil,Mérida,Alta,
+SOL-0295,Javier Ríos,Web,2026-06-12,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Puebla,Urgente,Paquete maltratado por la paquetería.
+SOL-0893,Mónica Vargas,,,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,Puebla,Alta,Es un cliente potencial nuevo.
+SOL-0426,Gabriela López,WhatsApp,2026-06-19,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,Guadalajara,Media,
+SOL-0714,Sofía Martínez,App Móvil,2026-06-05,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Producto X,Puebla,Urgente,
+SOL-0261,Carlos Mendoza,Web,2026-06-30,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Suscripción Premium,CDMX,Media,
+SOL-0238,Diego Delgado,Chatbot,2026-07-04,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,Monterrey,Baja,
+SOL-0560,Carlos Mendoza,Llamada,2026-06-28,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Mérida,,
+SOL-0584,Ricardo Morales,Correo,2026-06-03,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Tijuana,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0446,Roberto Flores,Chatbot,2026-06-14,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,,Baja,
+SOL-0868,,Llamada,2026-06-12,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,León,Alta,
+SOL-0801,Roberto Flores,Llamada,2026-06-17,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Guadalajara,Alta,Dejar nota para el equipo de finanzas.
+SOL-0600,Gabriela López,WhatsApp,2026-06-28,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Monterrey,Baja,
+SOL-0850,Patricia Silva,Chatbot,2026-07-09,¿Tienen stock disponible del modelo avanzado en color negro?,Soporte Técnico,,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0266,,App Móvil,2026-06-10,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Smart TV 55,Querétaro,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0877,Carlos Mendoza,Llamada,2026-06-27,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,Puebla,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0530,Sofía Martínez,Correo,2026-06-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Puebla,Urgente,
+SOL-0056,Patricia Silva,App Móvil,2026-06-19,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Facturación,Mérida,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0121,,,2026-06-24,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,,Urgente,
+SOL-0216,Sofía Martínez,WhatsApp,2026-06-26,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,León,,
+SOL-0026,Alejandro Ruiz,WhatsApp,2026-06-07,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Smart TV 55,Querétaro,,Solicita hablar con un supervisor de inmediato.
+SOL-0073,,Correo,2026-07-05,"Buenas tardes, quería saber cómo funciona la plataforma",,Monterrey,,Cliente molesto porque no puede pagar su renta.
+SOL-0045,María Rodríguez,Correo,2026-06-14,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,,,
+SOL-0248,Mónica Vargas,,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,,,Dejar nota para el equipo de finanzas.
+SOL-0722,Roberto Flores,Web,2026-07-10,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Guadalajara,Urgente,Es un cliente potencial nuevo.
+SOL-0282,María Rodríguez,Chatbot,2026-07-03,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Querétaro,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0894,Gabriela López,Llamada,2026-07-08,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,,,
+SOL-0915,,Llamada,2026-06-01,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0811,Pedro Castillo,,2026-06-05,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0245,,Web,2026-06-25,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,León,Urgente,Es un cliente potencial nuevo.
+SOL-0823,,Llamada,2026-06-19,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,Guadalajara,Alta,Requiere seguimiento por correo al final del día.
+SOL-0322,Elena Vasquez,,2026-06-05,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,León,Alta,Dejar nota para el equipo de finanzas.
+SOL-0644,,App Móvil,2026-06-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,León,Urgente,
+SOL-0159,Juan Pérez,App Móvil,2026-06-25,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,Guadalajara,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0206,Alejandro Ruiz,WhatsApp,2026-07-01,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Puebla,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0430,,WhatsApp,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,Tijuana,,Paquete maltratado por la paquetería.
+SOL-0353,,Web,2026-07-04,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Puebla,Media,Requiere seguimiento por correo al final del día.
+SOL-0463,Luis Hernández,Chatbot,2026-06-14,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Puebla,Urgente,Es un cliente potencial nuevo.
+SOL-0310,Lucía Méndez,Llamada,2026-06-16,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,Tijuana,Urgente,
+SOL-0698,Patricia Silva,Web,2026-06-19,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0061,Laura Torrez,Correo,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,Guadalajara,,Es un cliente potencial nuevo.
+SOL-0885,Juan Pérez,Llamada,2026-07-05,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0596,Lucía Méndez,App Móvil,2026-06-30,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Querétaro,Urgente,
+SOL-0768,Diego Delgado,Correo,2026-06-18,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,León,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0650,Fernando Ortiz,App Móvil,2026-07-08,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,Puebla,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0651,Gabriela López,Web,2026-06-02,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,Guadalajara,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0866,,Web,2026-06-29,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,Mérida,,
+SOL-0669,,Web,2026-06-21,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,CDMX,,
+SOL-0299,Gabriela López,Correo,2026-07-02,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,Tijuana,,
+SOL-0690,Lucía Méndez,Chatbot,2026-06-06,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,CDMX,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0315,Ana Gómez,App Móvil,2026-07-06,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Mérida,Urgente,
+SOL-0311,Mónica Vargas,Web,2026-06-27,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Logística,Guadalajara,,
+SOL-0362,Ana Gómez,WhatsApp,2026-07-04,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,Mérida,Alta,Requiere seguimiento por correo al final del día.
+SOL-0480,Juan Pérez,App Móvil,2026-06-16,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Puebla,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0111,Elena Vasquez,WhatsApp,2026-06-13,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0407,Roberto Flores,,2026-07-01,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Monterrey,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0487,Sofía Martínez,App Móvil,2026-06-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Smart TV 55,León,,
+SOL-0364,,,2026-06-29,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,CDMX,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0255,Lucía Méndez,Chatbot,2026-07-03,"Buenas tardes, quería saber cómo funciona la plataforma",,Querétaro,Media,
+SOL-0260,Carmen Jiménez,Correo,2026-06-13,,Smart TV 55,Monterrey,,Es un cliente potencial nuevo.
+SOL-0803,Elena Vasquez,Llamada,2026-06-14,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,Querétaro,Alta,Dejar nota para el equipo de finanzas.
+SOL-0678,,WhatsApp,2026-07-01,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,León,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0495,Laura Torrez,Chatbot,2026-06-01,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,Puebla,Media,
+SOL-0671,Laura Torrez,Web,,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,Tijuana,Alta,El cliente agradeció la explicación inicial.
+SOL-0378,Mónica Vargas,WhatsApp,2026-07-01,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,León,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0527,,,2026-06-26,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,CDMX,Baja,
+SOL-0846,Juan Pérez,Correo,2026-06-29,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,Mérida,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0138,,App Móvil,2026-06-02,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,CDMX,Media,Requiere seguimiento por correo al final del día.
+SOL-0356,Roberto Flores,Web,2026-06-20,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Querétaro,Alta,
+SOL-0366,Patricia Silva,Correo,2026-06-15,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,Mérida,,
+SOL-0884,Carlos Mendoza,App Móvil,2026-07-01,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Tijuana,Baja,Requiere seguimiento por correo al final del día.
+SOL-0750,Javier Ríos,Llamada,2026-06-25,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0530,Sofía Martínez,Correo,2026-06-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Puebla,Urgente,
+SOL-0830,Lucía Méndez,Llamada,2026-06-07,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Mérida,Alta,
+SOL-0657,María Rodríguez,Llamada,2026-06-21,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Tijuana,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0200,Luis Hernández,Llamada,2026-06-20,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Producto X,Guadalajara,,Es un cliente potencial nuevo.
+SOL-0214,Carlos Mendoza,,2026-06-17,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,Querétaro,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0409,Carmen Jiménez,Web,,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Facturación,Querétaro,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0333,Gabriela López,Chatbot,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,Monterrey,Baja,
+SOL-0209,Pedro Castillo,WhatsApp,2026-06-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,,Alta,
+SOL-0614,Javier Ríos,WhatsApp,2026-06-13,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,Tijuana,Urgente,
+SOL-0079,Javier Ríos,Chatbot,2026-06-14,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,León,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0030,Carlos Mendoza,WhatsApp,2026-06-16,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0536,Alejandro Ruiz,Correo,2026-07-09,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,Mérida,,"El cliente suena confundido, se cortó la llamada."
+SOL-0696,Luis Hernández,WhatsApp,2026-06-05,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,,Alta,Paquete maltratado por la paquetería.
+SOL-0558,,Correo,2026-06-06,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Puebla,,
+SOL-0837,Fernando Ortiz,App Móvil,2026-07-08,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Mérida,Media,
+SOL-0597,Laura Torrez,Llamada,2026-06-21,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Guadalajara,Alta,Paquete maltratado por la paquetería.
+SOL-0166,Lucía Méndez,Chatbot,2026-06-03,,Producto X,Guadalajara,Alta,Paquete maltratado por la paquetería.
+SOL-0919,,Llamada,2026-06-22,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,,,
+SOL-0496,,Chatbot,2026-06-13,¿Tienen stock disponible del modelo avanzado en color negro?,Logística,,,
+SOL-0825,Carlos Mendoza,Llamada,2026-07-07,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,Tijuana,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0066,Fernando Ortiz,WhatsApp,2026-07-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Monterrey,Alta,
+SOL-0142,,Correo,2026-06-03,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,Puebla,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0926,Laura Torrez,App Móvil,2026-06-16,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,Guadalajara,Alta,
+SOL-0828,Carlos Mendoza,Llamada,2026-06-14,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,León,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0656,Carmen Jiménez,Web,2026-06-22,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Tijuana,,El cliente agradeció la explicación inicial.
+SOL-0332,Javier Ríos,Correo,2026-07-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Puebla,Media,
+SOL-0665,Javier Ríos,Chatbot,2026-06-20,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,Puebla,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0250,Roberto Flores,,2026-07-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Puebla,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0908,Pedro Castillo,Correo,2026-06-02,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Monterrey,Baja,El cliente agradeció la explicación inicial.
+SOL-0709,Juan Pérez,Correo,2026-07-06,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,Querétaro,Alta,
+SOL-0306,Mónica Vargas,,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Smart TV 55,Guadalajara,Alta,
+SOL-0735,,Chatbot,2026-07-10,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Querétaro,Baja,Es un cliente potencial nuevo.
+SOL-0463,Luis Hernández,Chatbot,2026-06-14,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Puebla,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0050,Alejandro Ruiz,App Móvil,2026-07-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Puebla,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0897,,App Móvil,2026-06-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,CDMX,Media,
+SOL-0003,Carmen Jiménez,Web,2026-06-03,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,Guadalajara,,
+SOL-0545,Carmen Jiménez,,2026-06-28,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Monterrey,Alta,
+SOL-0351,,WhatsApp,2026-06-10,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Mérida,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0905,Javier Ríos,Web,2026-07-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Mérida,Baja,
+SOL-0537,Juan Pérez,Llamada,2026-06-15,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,Puebla,Urgente,
+SOL-0345,Ricardo Morales,Chatbot,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,Mérida,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0701,Ricardo Morales,WhatsApp,2026-07-01,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0482,Laura Torrez,WhatsApp,2026-07-02,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,León,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0576,Roberto Flores,App Móvil,2026-06-22,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Tijuana,Urgente,
+SOL-0034,Lucía Méndez,Llamada,2026-07-08,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Tijuana,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0032,Fernando Ortiz,Chatbot,2026-07-03,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,León,,Dejar nota para el equipo de finanzas.
+SOL-0232,Javier Ríos,Correo,2026-06-22,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,,,
+SOL-0558,,Correo,2026-06-06,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Puebla,,
+SOL-0193,,WhatsApp,,,Facturación,Guadalajara,,El cliente agradeció la explicación inicial.
+SOL-0334,Roberto Flores,WhatsApp,2026-06-04,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,Monterrey,,Cliente molesto porque no puede pagar su renta.
+SOL-0004,Laura Torrez,WhatsApp,2026-06-15,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Tijuana,Baja,Dejar nota para el equipo de finanzas.
+SOL-0205,Mónica Vargas,WhatsApp,2026-06-25,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,,Urgente,
+SOL-0515,Sofía Martínez,Web,2026-07-07,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,,Media,Requiere seguimiento por correo al final del día.
+SOL-0800,Fernando Ortiz,Chatbot,,,Soporte Técnico,Querétaro,Media,Paquete maltratado por la paquetería.
+SOL-0307,Diego Delgado,Correo,2026-06-02,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,Querétaro,Baja,Dejar nota para el equipo de finanzas.
+SOL-0110,María Rodríguez,App Móvil,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,Querétaro,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0431,,WhatsApp,2026-07-09,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,Puebla,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0078,Gabriela López,Correo,2026-07-06,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,Querétaro,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0085,Lucía Méndez,Web,2026-06-08,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Querétaro,Media,
+SOL-0287,Gabriela López,Chatbot,2026-07-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Producto X,Mérida,,
+SOL-0083,Laura Torrez,WhatsApp,2026-06-15,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,,Alta,
+SOL-0116,Ricardo Morales,Web,2026-06-30,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,CDMX,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0790,María Rodríguez,Web,,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Tijuana,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0895,Ricardo Morales,Correo,2026-06-08,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0399,Laura Torrez,Web,2026-06-27,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,Puebla,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0324,María Rodríguez,Chatbot,2026-07-06,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Guadalajara,Baja,Dejar nota para el equipo de finanzas.
+SOL-0520,Sofía Martínez,,2026-06-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Tijuana,,
+SOL-0917,,Chatbot,2026-07-01,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Querétaro,Urgente,
+SOL-0923,Alejandro Ruiz,Llamada,2026-06-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,,Alta,Dejar nota para el equipo de finanzas.
+SOL-0006,,App Móvil,2026-06-21,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,León,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0732,Sofía Martínez,App Móvil,2026-06-03,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Querétaro,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0466,María Rodríguez,Chatbot,2026-07-02,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0098,Diego Delgado,,2026-06-16,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0267,,Llamada,,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Smart TV 55,Guadalajara,Alta,Requiere seguimiento por correo al final del día.
+SOL-0358,Pedro Castillo,Chatbot,,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,Querétaro,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0869,María Rodríguez,Chatbot,2026-07-04,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,León,Media,Requiere seguimiento por correo al final del día.
+SOL-0799,Elena Vasquez,Correo,2026-07-01,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Puebla,Baja,Es un cliente potencial nuevo.
+SOL-0381,Ana Gómez,Web,2026-06-06,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Monterrey,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0632,Diego Delgado,App Móvil,2026-06-20,,Smart TV 55,Querétaro,,Cliente molesto porque no puede pagar su renta.
+SOL-0382,Sofía Martínez,WhatsApp,2026-06-11,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,León,,Dejar nota para el equipo de finanzas.
+SOL-0491,Ana Gómez,Llamada,2026-06-03,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,Monterrey,Alta,
+SOL-0119,Javier Ríos,Web,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,León,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0901,Lucía Méndez,App Móvil,2026-06-15,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Guadalajara,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0251,Fernando Ortiz,WhatsApp,2026-06-07,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0524,Juan Pérez,Llamada,2026-06-20,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,Mérida,,
+SOL-0010,Laura Torrez,Correo,2026-06-04,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,Guadalajara,,Dejar nota para el equipo de finanzas.
+SOL-0197,Ricardo Morales,App Móvil,2026-06-20,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,Puebla,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0604,Carlos Mendoza,Web,2026-06-13,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Mérida,Alta,
+SOL-0082,Ana Gómez,App Móvil,2026-06-06,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,Tijuana,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0784,Pedro Castillo,Chatbot,2026-06-24,,Logística,Monterrey,Urgente,El cliente agradeció la explicación inicial.
+SOL-0588,María Rodríguez,WhatsApp,2026-07-06,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0798,,Web,2026-07-10,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,León,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0240,Sofía Martínez,Llamada,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Mérida,Urgente,Es un cliente potencial nuevo.
+SOL-0291,Luis Hernández,Chatbot,2026-06-01,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Guadalajara,Alta,
+SOL-0212,,Web,2026-06-21,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,Guadalajara,,Dejar nota para el equipo de finanzas.
+SOL-0718,Mónica Vargas,,2026-06-02,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Querétaro,Baja,Requiere seguimiento por correo al final del día.
+SOL-0360,Ana Gómez,Correo,2026-06-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,CDMX,Urgente,
+SOL-0450,Luis Hernández,Llamada,2026-06-18,,Producto X,Monterrey,Baja,Requiere seguimiento por correo al final del día.
+SOL-0228,Alejandro Ruiz,App Móvil,,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Banca Móvil,CDMX,Urgente,Es un cliente potencial nuevo.
+SOL-0539,Ricardo Morales,App Móvil,2026-07-05,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,CDMX,Alta,Es un cliente potencial nuevo.
+SOL-0097,,Web,2026-06-06,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Mérida,,
+SOL-0797,María Rodríguez,,2026-06-07,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0502,Ana Gómez,App Móvil,2026-06-29,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Guadalajara,,Cliente molesto porque no puede pagar su renta.
+SOL-0465,Gabriela López,Chatbot,2026-07-09,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,CDMX,,
+SOL-0363,Alejandro Ruiz,Correo,2026-06-11,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,CDMX,,
+SOL-0469,,Llamada,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,Monterrey,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0356,Roberto Flores,Web,2026-06-20,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Querétaro,Alta,
+SOL-0429,Carmen Jiménez,Chatbot,2026-06-22,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0008,Carlos Mendoza,App Móvil,,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,Mérida,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0156,Luis Hernández,Chatbot,2026-06-10,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Tijuana,Alta,
+SOL-0542,Ricardo Morales,Correo,2026-06-08,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Tijuana,Urgente,
+SOL-0441,Laura Torrez,App Móvil,2026-06-11,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Monterrey,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0483,Gabriela López,Llamada,2026-06-28,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,Mérida,Media,Dejar nota para el equipo de finanzas.
+SOL-0423,Fernando Ortiz,Correo,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Monterrey,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0779,Ricardo Morales,Llamada,2026-06-16,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Tijuana,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0322,Elena Vasquez,,2026-06-05,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,León,Alta,Dejar nota para el equipo de finanzas.
+SOL-0335,Alejandro Ruiz,Chatbot,,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Monterrey,Alta,
+SOL-0577,Gabriela López,Correo,2026-06-21,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,CDMX,Baja,
+SOL-0193,,WhatsApp,,,Facturación,Guadalajara,,El cliente agradeció la explicación inicial.
+SOL-0568,Alejandro Ruiz,Llamada,2026-06-29,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,Guadalajara,Media,
+SOL-0595,,Llamada,2026-07-08,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Producto X,CDMX,Media,Es un cliente potencial nuevo.
+SOL-0531,Juan Pérez,Web,2026-06-16,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Mérida,,El cliente agradeció la explicación inicial.
+SOL-0582,Laura Torrez,Llamada,2026-06-11,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,León,Urgente,
+SOL-0708,Carmen Jiménez,Chatbot,2026-06-20,,Soporte Técnico,CDMX,Alta,Requiere seguimiento por correo al final del día.
+SOL-0449,,App Móvil,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,Puebla,Baja,
+SOL-0454,Lucía Méndez,Correo,2026-06-10,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,,Baja,Dejar nota para el equipo de finanzas.
+SOL-0229,Lucía Méndez,Llamada,2026-06-23,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Producto X,Puebla,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0353,,Web,2026-07-04,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Puebla,Media,Requiere seguimiento por correo al final del día.
+SOL-0729,Elena Vasquez,Llamada,2026-06-27,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0213,Lucía Méndez,Correo,2026-06-27,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Querétaro,Urgente,
+SOL-0080,Carmen Jiménez,Chatbot,2026-07-06,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,,Alta,
+SOL-0149,Laura Torrez,Correo,2026-06-13,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Tijuana,Media,Dejar nota para el equipo de finanzas.
+SOL-0303,Diego Delgado,Llamada,2026-06-29,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Tijuana,Baja,Dejar nota para el equipo de finanzas.
+SOL-0629,Luis Hernández,WhatsApp,2026-06-24,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Monterrey,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0778,Elena Vasquez,Correo,2026-06-28,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Puebla,Media,El cliente agradeció la explicación inicial.
+SOL-0507,Mónica Vargas,Llamada,2026-06-05,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,Tijuana,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0343,Lucía Méndez,WhatsApp,2026-06-18,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,Puebla,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0486,Carmen Jiménez,Correo,2026-06-08,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,León,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0712,Carmen Jiménez,Web,2026-06-23,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Tijuana,Alta,Paquete maltratado por la paquetería.
+SOL-0134,Pedro Castillo,,2026-07-08,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,CDMX,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0704,Javier Ríos,Chatbot,2026-06-13,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,,,"El cliente suena confundido, se cortó la llamada."
+SOL-0312,Mónica Vargas,WhatsApp,2026-06-12,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Producto X,Mérida,Media,Dejar nota para el equipo de finanzas.
+SOL-0723,Elena Vasquez,WhatsApp,2026-06-03,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0630,Lucía Méndez,Correo,2026-06-14,,Suscripción Premium,CDMX,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0001,,WhatsApp,,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,,,El cliente agradeció la explicación inicial.
+SOL-0317,Pedro Castillo,App Móvil,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,Monterrey,Alta,
+SOL-0707,Ana Gómez,Chatbot,2026-07-05,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0548,Elena Vasquez,App Móvil,2026-06-29,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Mérida,Media,
+SOL-0873,,App Móvil,2026-07-07,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Querétaro,Alta,El cliente agradeció la explicación inicial.
+SOL-0533,Luis Hernández,Correo,2026-06-13,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,Puebla,,
+SOL-0478,Alejandro Ruiz,,2026-06-12,,Suscripción Premium,Guadalajara,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0405,Alejandro Ruiz,WhatsApp,2026-06-28,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,Puebla,Media,
+SOL-0173,Lucía Méndez,Correo,2026-07-02,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,Monterrey,Media,
+SOL-0126,Alejandro Ruiz,Chatbot,2026-07-01,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,Mérida,Baja,Paquete maltratado por la paquetería.
+SOL-0395,María Rodríguez,Chatbot,2026-06-05,¿Tienen stock disponible del modelo avanzado en color negro?,Logística,Guadalajara,Alta,Dejar nota para el equipo de finanzas.
+SOL-0421,María Rodríguez,App Móvil,2026-06-28,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Monterrey,Alta,
+SOL-0553,Roberto Flores,Correo,2026-06-27,"Buenas tardes, quería saber cómo funciona la plataforma",,León,Alta,El cliente agradeció la explicación inicial.
+SOL-0904,Laura Torrez,Correo,2026-06-05,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,,Baja,
+SOL-0091,Ricardo Morales,Llamada,2026-06-22,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,CDMX,Baja,
+SOL-0452,Roberto Flores,Web,2026-07-09,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,Guadalajara,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0182,,Correo,2026-06-09,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0275,Mónica Vargas,Llamada,2026-06-10,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,Puebla,Baja,Es un cliente potencial nuevo.
+SOL-0896,María Rodríguez,Web,2026-06-17,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,Mérida,Alta,
+SOL-0070,Ricardo Morales,Llamada,2026-06-24,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,Tijuana,,Solicita hablar con un supervisor de inmediato.
+SOL-0292,,Chatbot,2026-06-01,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Tijuana,Alta,El cliente agradeció la explicación inicial.
+SOL-0132,Juan Pérez,Chatbot,2026-06-30,,Suscripción Premium,Guadalajara,Baja,
+SOL-0301,Patricia Silva,,2026-06-17,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Logística,CDMX,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0425,,App Móvil,2026-07-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0327,Alejandro Ruiz,Chatbot,2026-07-03,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Monterrey,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0145,Ana Gómez,Chatbot,2026-06-27,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,Monterrey,Urgente,
+SOL-0424,Elena Vasquez,WhatsApp,2026-06-08,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,León,Alta,
+SOL-0581,Patricia Silva,Web,2026-06-26,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,Mérida,,Paquete maltratado por la paquetería.
+SOL-0136,Luis Hernández,,2026-07-09,¿Tienen stock disponible del modelo avanzado en color negro?,Logística,Guadalajara,Urgente,
+SOL-0451,Lucía Méndez,App Móvil,2026-06-03,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,Mérida,Media,
+SOL-0165,Lucía Méndez,App Móvil,2026-07-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,Mérida,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0029,Luis Hernández,Chatbot,2026-07-01,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Monterrey,,
+SOL-0774,Pedro Castillo,App Móvil,2026-06-07,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,CDMX,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0194,Ana Gómez,,2026-06-27,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Puebla,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0389,Patricia Silva,Correo,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,Tijuana,Baja,Es un cliente potencial nuevo.
+SOL-0853,Elena Vasquez,Web,2026-06-29,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Querétaro,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0170,Lucía Méndez,,2026-06-02,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Puebla,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0706,Luis Hernández,Chatbot,2026-07-01,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Querétaro,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0141,Juan Pérez,Web,2026-06-13,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Guadalajara,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0174,Ricardo Morales,Chatbot,2026-07-03,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Tijuana,,
+SOL-0007,Juan Pérez,Chatbot,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,CDMX,Alta,Es un cliente potencial nuevo.
+SOL-0746,Pedro Castillo,Web,2026-07-06,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,CDMX,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0479,,App Móvil,2026-07-02,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,Querétaro,,"El cliente suena confundido, se cortó la llamada."
+SOL-0074,Sofía Martínez,App Móvil,,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Querétaro,Alta,Dejar nota para el equipo de finanzas.
+SOL-0911,Luis Hernández,Web,2026-06-15,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Querétaro,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0814,Lucía Méndez,App Móvil,2026-06-20,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,León,Baja,El cliente agradeció la explicación inicial.
+SOL-0239,Carlos Mendoza,Chatbot,2026-07-03,,Banca Móvil,Querétaro,Alta,
+SOL-0146,Ricardo Morales,App Móvil,2026-07-09,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,Guadalajara,,Requiere seguimiento por correo al final del día.
+SOL-0793,Roberto Flores,App Móvil,2026-07-02,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Guadalajara,,El cliente agradeció la explicación inicial.
+SOL-0235,Fernando Ortiz,Correo,2026-06-21,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,Monterrey,Alta,Dejar nota para el equipo de finanzas.
+SOL-0221,Roberto Flores,WhatsApp,2026-06-25,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,Querétaro,Baja,
+SOL-0924,Luis Hernández,Correo,2026-07-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0501,,Correo,2026-06-09,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Facturación,León,Urgente,
+SOL-0133,Carmen Jiménez,App Móvil,2026-06-26,¿Tienen stock disponible del modelo avanzado en color negro?,Smart TV 55,Querétaro,,Solicita hablar con un supervisor de inmediato.
+SOL-0699,Carlos Mendoza,Chatbot,2026-06-20,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,León,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0775,Fernando Ortiz,Chatbot,2026-06-30,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,Tijuana,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0186,Sofía Martínez,,2026-06-25,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,Querétaro,Media,Paquete maltratado por la paquetería.
+SOL-0042,Fernando Ortiz,Chatbot,2026-07-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Querétaro,Alta,
+SOL-0697,,,2026-06-17,¿Tienen stock disponible del modelo avanzado en color negro?,Soporte Técnico,León,Alta,
+SOL-0109,Patricia Silva,Chatbot,2026-06-25,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Guadalajara,,
+SOL-0589,Diego Delgado,Web,2026-07-05,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,León,,
+SOL-0057,Alejandro Ruiz,Llamada,2026-06-22,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,Mérida,Alta,
+SOL-0406,Patricia Silva,App Móvil,2026-07-03,,Smart TV 55,Tijuana,,
+SOL-0443,,Llamada,2026-06-07,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Querétaro,Urgente,
+SOL-0758,Carmen Jiménez,Correo,2026-06-05,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Puebla,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0273,Alejandro Ruiz,Web,2026-06-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0025,Luis Hernández,Llamada,2026-06-22,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,,Baja,
+SOL-0468,Ana Gómez,Correo,2026-06-10,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,,Alta,Dejar nota para el equipo de finanzas.
+SOL-0540,Luis Hernández,Llamada,2026-06-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,Puebla,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0532,Diego Delgado,Web,2026-07-02,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,Monterrey,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0619,Ricardo Morales,,2026-06-29,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,Tijuana,Baja,Es un cliente potencial nuevo.
+SOL-0695,Ana Gómez,App Móvil,2026-06-14,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,León,Media,Paquete maltratado por la paquetería.
+SOL-0927,Ana Gómez,Web,2026-06-14,,,,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0339,Carmen Jiménez,App Móvil,2026-06-15,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Monterrey,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0052,Javier Ríos,Chatbot,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,Mérida,Alta,
+SOL-0508,Roberto Flores,App Móvil,2026-07-03,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Logística,Monterrey,,El cliente agradeció la explicación inicial.
+SOL-0517,Lucía Méndez,,2026-06-08,,Soporte Técnico,León,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0921,Ricardo Morales,,2026-07-03,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0782,Lucía Méndez,Correo,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Guadalajara,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0265,Sofía Martínez,Correo,2026-07-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Banca Móvil,Guadalajara,Media,Paquete maltratado por la paquetería.
+SOL-0818,,Chatbot,2026-07-06,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Suscripción Premium,Puebla,Urgente,
+SOL-0711,Elena Vasquez,,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0683,Carlos Mendoza,,,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,CDMX,Urgente,Paquete maltratado por la paquetería.
+SOL-0833,Carlos Mendoza,Llamada,2026-06-14,"Buenas tardes, quería saber cómo funciona la plataforma",,Querétaro,Baja,
+SOL-0519,Pedro Castillo,Web,2026-06-16,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0448,María Rodríguez,WhatsApp,2026-07-11,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Monterrey,Urgente,Paquete maltratado por la paquetería.
+SOL-0019,Javier Ríos,WhatsApp,2026-06-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Mérida,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0716,Luis Hernández,WhatsApp,2026-06-24,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,,Alta,Paquete maltratado por la paquetería.
+SOL-0484,Juan Pérez,Web,2026-06-25,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Querétaro,Urgente,
+SOL-0569,Ana Gómez,,2026-06-01,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,CDMX,Alta,
+SOL-0434,Sofía Martínez,,2026-06-09,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,Querétaro,Baja,El cliente agradeció la explicación inicial.
+SOL-0368,,Correo,2026-07-10,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,Monterrey,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0084,Ricardo Morales,,,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Querétaro,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0062,Javier Ríos,App Móvil,2026-06-12,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Guadalajara,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0639,Carmen Jiménez,App Móvil,2026-07-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,Querétaro,Urgente,
+SOL-0273,Alejandro Ruiz,Web,2026-06-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0286,Lucía Méndez,Web,2026-06-07,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Mérida,Baja,El cliente agradeció la explicación inicial.
+SOL-0361,Diego Delgado,App Móvil,,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,CDMX,,Solicita hablar con un supervisor de inmediato.
+SOL-0355,Luis Hernández,WhatsApp,2026-06-08,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Smart TV 55,,,
+SOL-0457,Elena Vasquez,Web,2026-06-14,¿Tienen stock disponible del modelo avanzado en color negro?,Suscripción Premium,León,Baja,
+SOL-0279,Juan Pérez,Llamada,2026-06-11,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Mérida,Media,Es un cliente potencial nuevo.
+SOL-0013,,Chatbot,2026-07-01,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Logística,,Urgente,Paquete maltratado por la paquetería.
+SOL-0183,,Llamada,2026-06-06,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,CDMX,,Dejar nota para el equipo de finanzas.
+SOL-0369,María Rodríguez,App Móvil,2026-06-05,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,León,Alta,Requiere seguimiento por correo al final del día.
+SOL-0882,Fernando Ortiz,WhatsApp,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,Puebla,,El cliente agradeció la explicación inicial.
+SOL-0616,Elena Vasquez,,2026-06-03,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Suscripción Premium,,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0224,Sofía Martínez,Correo,2026-06-09,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,León,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0573,Sofía Martínez,App Móvil,2026-06-25,,Soporte Técnico,,Media,El cliente agradeció la explicación inicial.
+SOL-0004,Laura Torrez,WhatsApp,2026-06-15,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Tijuana,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0654,Fernando Ortiz,Chatbot,2026-06-25,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,León,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0546,Luis Hernández,Llamada,2026-06-27,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Guadalajara,,
+SOL-0583,Juan Pérez,Llamada,2026-06-28,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Monterrey,Alta,
+SOL-0634,Ricardo Morales,Correo,2026-07-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Logística,Guadalajara,,
+SOL-0177,Gabriela López,App Móvil,2026-07-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Monterrey,Media,
+SOL-0666,Gabriela López,App Móvil,2026-06-05,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,CDMX,,Requiere seguimiento por correo al final del día.
+SOL-0674,Fernando Ortiz,WhatsApp,2026-06-09,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,Monterrey,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0586,,Chatbot,2026-06-12,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,Tijuana,Baja,Requiere seguimiento por correo al final del día.
+SOL-0874,Diego Delgado,Chatbot,2026-06-12,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,CDMX,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0394,,WhatsApp,2026-06-10,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,CDMX,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0164,,Llamada,2026-06-24,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,Puebla,,El cliente agradeció la explicación inicial.
+SOL-0249,Ricardo Morales,Correo,2026-06-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,León,Alta,
+SOL-0635,Roberto Flores,Web,2026-07-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Querétaro,Alta,Paquete maltratado por la paquetería.
+SOL-0886,Juan Pérez,WhatsApp,2026-06-30,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Puebla,Urgente,Es un cliente potencial nuevo.
+SOL-0670,,App Móvil,2026-07-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,Mérida,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0376,Mónica Vargas,Chatbot,2026-06-24,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,León,Baja,
+SOL-0413,,Llamada,2026-06-23,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,CDMX,Baja,Paquete maltratado por la paquetería.
+SOL-0075,,,2026-06-26,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Guadalajara,Urgente,
+SOL-0114,Alejandro Ruiz,Correo,2026-07-11,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Monterrey,Baja,Requiere seguimiento por correo al final del día.
+SOL-0599,Lucía Méndez,App Móvil,2026-07-05,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,Puebla,Alta,
+SOL-0362,Ana Gómez,WhatsApp,2026-07-04,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,Mérida,Alta,Requiere seguimiento por correo al final del día.
+SOL-0391,Pedro Castillo,WhatsApp,2026-06-30,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,,Media,Es un cliente potencial nuevo.
+SOL-0105,Ricardo Morales,,2026-06-12,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Facturación,León,Baja,
+SOL-0115,Javier Ríos,WhatsApp,2026-06-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0418,,,2026-06-08,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,CDMX,Media,
+SOL-0526,María Rodríguez,WhatsApp,2026-06-30,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,CDMX,Urgente,Paquete maltratado por la paquetería.
+SOL-0458,Lucía Méndez,WhatsApp,2026-06-11,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0410,Juan Pérez,Web,2026-06-16,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,León,Media,Paquete maltratado por la paquetería.
+SOL-0093,Diego Delgado,WhatsApp,2026-06-28,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,,,"El cliente suena confundido, se cortó la llamada."
+SOL-0757,Patricia Silva,,2026-06-21,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Monterrey,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0090,Juan Pérez,,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,Querétaro,Alta,El cliente agradeció la explicación inicial.
+SOL-0337,Carmen Jiménez,Chatbot,2026-06-06,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,León,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0259,Pedro Castillo,Chatbot,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Mérida,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0922,Gabriela López,Chatbot,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,Monterrey,Alta,
+SOL-0389,Patricia Silva,Correo,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,Tijuana,Baja,Es un cliente potencial nuevo.
+SOL-0606,Diego Delgado,WhatsApp,2026-06-16,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Querétaro,,Requiere seguimiento por correo al final del día.
+SOL-0594,Javier Ríos,Web,2026-07-06,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,Guadalajara,Alta,Es un cliente potencial nuevo.
+SOL-0612,Luis Hernández,Correo,2026-06-29,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Guadalajara,Baja,
+SOL-0095,Lucía Méndez,Web,2026-06-16,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,Mérida,Urgente,Paquete maltratado por la paquetería.
+SOL-0012,Elena Vasquez,Chatbot,2026-06-15,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,CDMX,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0397,Javier Ríos,,,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Logística,Tijuana,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0534,Fernando Ortiz,Chatbot,2026-06-23,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Soporte Técnico,CDMX,Urgente,
+SOL-0044,Laura Torrez,App Móvil,2026-07-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,Querétaro,,El cliente agradeció la explicación inicial.
+SOL-0043,Carlos Mendoza,Chatbot,2026-06-13,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,,,El cliente agradeció la explicación inicial.
+SOL-0330,,Web,2026-07-05,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,Querétaro,,
+SOL-0168,Roberto Flores,WhatsApp,2026-06-10,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,,,Paquete maltratado por la paquetería.
+SOL-0498,Juan Pérez,Llamada,2026-06-30,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,Guadalajara,Media,
+SOL-0877,Carlos Mendoza,Llamada,2026-06-27,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0598,Lucía Méndez,App Móvil,2026-07-03,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Monterrey,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0757,Patricia Silva,,2026-06-21,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Monterrey,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0101,Gabriela López,Correo,2026-07-07,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Guadalajara,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0427,Gabriela López,WhatsApp,2026-07-05,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,,,
+SOL-0179,Ricardo Morales,Llamada,2026-06-10,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Mérida,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0445,Sofía Martínez,Llamada,2026-06-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Puebla,Baja,Dejar nota para el equipo de finanzas.
+SOL-0417,Juan Pérez,Llamada,2026-06-21,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Querétaro,Baja,Dejar nota para el equipo de finanzas.
+SOL-0871,Javier Ríos,WhatsApp,2026-07-04,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Querétaro,Urgente,El cliente agradeció la explicación inicial.
+SOL-0883,,,2026-06-03,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Puebla,,Solicita hablar con un supervisor de inmediato.
+SOL-0681,Alejandro Ruiz,Llamada,,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,Puebla,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0178,Javier Ríos,Web,2026-07-03,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Guadalajara,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0396,Sofía Martínez,App Móvil,2026-07-07,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Querétaro,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0912,Elena Vasquez,,2026-07-08,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,Puebla,,Requiere seguimiento por correo al final del día.
+SOL-0794,Lucía Méndez,Llamada,2026-06-02,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,León,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0216,Sofía Martínez,WhatsApp,2026-06-26,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,León,,
+SOL-0685,Diego Delgado,App Móvil,2026-07-09,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,Mérida,Alta,Es un cliente potencial nuevo.
+SOL-0384,Sofía Martínez,Web,2026-07-08,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,Puebla,,
+SOL-0859,Ricardo Morales,App Móvil,2026-07-07,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Smart TV 55,,Baja,
+SOL-0752,Luis Hernández,Llamada,2026-07-08,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,,Monterrey,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0258,Mónica Vargas,WhatsApp,2026-06-23,¿Tienen stock disponible del modelo avanzado en color negro?,Smart TV 55,,Media,El cliente agradeció la explicación inicial.
+SOL-0539,Ricardo Morales,App Móvil,2026-07-05,"Buenas tardes, quería saber cómo funciona la plataforma",Producto X,CDMX,Alta,Es un cliente potencial nuevo.
+SOL-0336,Carlos Mendoza,WhatsApp,2026-06-25,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Querétaro,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0016,Fernando Ortiz,Web,2026-06-28,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,,Media,Paquete maltratado por la paquetería.
+SOL-0325,Carmen Jiménez,Llamada,2026-06-23,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Querétaro,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0759,Alejandro Ruiz,Chatbot,2026-07-05,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Puebla,Alta,Requiere seguimiento por correo al final del día.
+SOL-0223,Carmen Jiménez,Chatbot,2026-06-26,,Smart TV 55,Querétaro,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0180,Patricia Silva,Web,2026-07-08,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Guadalajara,Urgente,
+SOL-0748,Elena Vasquez,WhatsApp,2026-06-18,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Tijuana,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0023,Luis Hernández,App Móvil,2026-06-16,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Querétaro,Urgente,
+SOL-0357,Patricia Silva,Llamada,2026-06-03,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Suscripción Premium,León,Media,
+SOL-0667,,Correo,,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Puebla,Baja,
+SOL-0862,Gabriela López,WhatsApp,2026-06-18,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,CDMX,Urgente,
+SOL-0341,,Llamada,2026-06-27,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,Mérida,,
+SOL-0432,Carmen Jiménez,Correo,2026-07-03,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,Guadalajara,,
+SOL-0552,Sofía Martínez,Correo,2026-06-14,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,Querétaro,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0834,Ricardo Morales,,2026-07-04,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Guadalajara,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0204,Carmen Jiménez,Chatbot,2026-07-10,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,Mérida,Urgente,
+SOL-0631,,Llamada,,¿Tienen stock disponible del modelo avanzado en color negro?,Suscripción Premium,CDMX,Media,
+SOL-0094,,Chatbot,2026-07-05,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,CDMX,,Requiere seguimiento por correo al final del día.
+SOL-0559,Fernando Ortiz,App Móvil,2026-06-13,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,León,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0069,Mónica Vargas,Web,,,Facturación,,,"El cliente suena confundido, se cortó la llamada."
+SOL-0623,Alejandro Ruiz,App Móvil,2026-07-05,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,,Alta,
+SOL-0285,,Web,,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Tijuana,,Paquete maltratado por la paquetería.
+SOL-0845,Elena Vasquez,,2026-06-11,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,,Media,Paquete maltratado por la paquetería.
+SOL-0435,Elena Vasquez,Chatbot,2026-06-27,"Buenas tardes, quería saber cómo funciona la plataforma",,Tijuana,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0154,Ana Gómez,,2026-06-26,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,León,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0076,Carmen Jiménez,Chatbot,2026-06-19,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,Tijuana,,
+SOL-0731,,WhatsApp,2026-06-11,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Tijuana,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0447,Diego Delgado,Llamada,2026-06-28,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Guadalajara,Baja,El cliente agradeció la explicación inicial.
+SOL-0189,,Llamada,2026-07-03,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Tijuana,,Solicita hablar con un supervisor de inmediato.
+SOL-0272,Luis Hernández,Web,2026-07-02,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Producto X,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0237,Diego Delgado,Correo,2026-06-02,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0488,Luis Hernández,Web,2026-06-11,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,León,Urgente,
+SOL-0118,María Rodríguez,Web,2026-07-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Puebla,Media,
+SOL-0752,Luis Hernández,Llamada,2026-07-08,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,,Monterrey,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0513,Ricardo Morales,Chatbot,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,CDMX,Alta,
+SOL-0826,Javier Ríos,,2026-07-07,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Monterrey,Media,
+SOL-0592,,Web,2026-06-28,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,Puebla,Alta,
+SOL-0127,Alejandro Ruiz,Web,2026-06-08,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Tijuana,Urgente,
+SOL-0117,Ricardo Morales,Correo,2026-06-24,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Guadalajara,Baja,
+SOL-0474,Gabriela López,Chatbot,2026-06-13,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,Tijuana,Urgente,
+SOL-0694,Diego Delgado,Llamada,2026-06-04,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0058,Mónica Vargas,Llamada,2026-06-30,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Puebla,Media,Requiere seguimiento por correo al final del día.
+SOL-0864,Luis Hernández,Correo,2026-07-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Monterrey,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0913,Carmen Jiménez,App Móvil,2026-06-18,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0370,Carmen Jiménez,Llamada,2026-06-21,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,,,Paquete maltratado por la paquetería.
+SOL-0269,,WhatsApp,2026-07-06,¿Tienen stock disponible del modelo avanzado en color negro?,Soporte Técnico,Monterrey,Alta,
+SOL-0047,Ricardo Morales,Llamada,2026-06-05,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,CDMX,Media,Es un cliente potencial nuevo.
+SOL-0350,Javier Ríos,App Móvil,2026-07-01,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,León,,
+SOL-0196,Patricia Silva,,2026-07-05,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0628,,Llamada,2026-06-27,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,León,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0835,,Chatbot,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,León,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0737,Laura Torrez,Chatbot,2026-06-28,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,Monterrey,,
+SOL-0264,Sofía Martínez,Llamada,2026-06-17,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Mérida,,El cliente agradeció la explicación inicial.
+SOL-0444,María Rodríguez,WhatsApp,,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,León,Urgente,
+SOL-0676,Pedro Castillo,Correo,2026-07-08,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Querétaro,Baja,Dejar nota para el equipo de finanzas.
+SOL-0305,Fernando Ortiz,Llamada,2026-06-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,,,Paquete maltratado por la paquetería.
+SOL-0342,Carlos Mendoza,Web,2026-06-06,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,León,,
+SOL-0371,Ricardo Morales,Chatbot,2026-07-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Puebla,Baja,
+SOL-0150,Gabriela López,Correo,2026-06-09,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,León,,
+SOL-0125,Ana Gómez,App Móvil,2026-06-09,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Querétaro,Urgente,El cliente agradeció la explicación inicial.
+SOL-0787,Mónica Vargas,WhatsApp,2026-06-09,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Suscripción Premium,León,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0051,Javier Ríos,Web,2026-06-29,,Smart TV 55,Mérida,Urgente,
+SOL-0354,Laura Torrez,Llamada,2026-07-09,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Mérida,,
+SOL-0928,,,2026-07-11,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,CDMX,Urgente,Es un cliente potencial nuevo.
+SOL-0143,Elena Vasquez,Web,2026-06-10,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,Puebla,Urgente,
+SOL-0471,Sofía Martínez,Web,2026-06-10,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,León,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0400,Luis Hernández,Web,,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Monterrey,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0626,Patricia Silva,App Móvil,2026-06-24,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Guadalajara,Alta,
+SOL-0321,Ana Gómez,,2026-06-12,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Puebla,Alta,
+SOL-0020,,WhatsApp,2026-07-06,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Guadalajara,,"El cliente suena confundido, se cortó la llamada."
+SOL-0810,Alejandro Ruiz,,2026-06-18,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Puebla,Alta,Es un cliente potencial nuevo.
+SOL-0791,Pedro Castillo,WhatsApp,2026-06-15,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Querétaro,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0809,Roberto Flores,WhatsApp,2026-06-29,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,Puebla,,"El cliente suena confundido, se cortó la llamada."
+SOL-0408,Fernando Ortiz,App Móvil,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Guadalajara,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0538,Lucía Méndez,Correo,2026-06-29,,Logística,CDMX,Baja,Es un cliente potencial nuevo.
+SOL-0621,Carlos Mendoza,Chatbot,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,,Alta,
+SOL-0039,Laura Torrez,Chatbot,2026-06-25,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Puebla,,Requiere seguimiento por correo al final del día.
+SOL-0176,Lucía Méndez,WhatsApp,2026-06-16,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,CDMX,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0246,Fernando Ortiz,Correo,2026-07-10,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Querétaro,,Es un cliente potencial nuevo.
+SOL-0829,María Rodríguez,Correo,2026-06-08,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Facturación,,Baja,
+SOL-0668,Elena Vasquez,Chatbot,2026-06-05,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,Puebla,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0755,Patricia Silva,,2026-07-11,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,León,Media,
+SOL-0859,Ricardo Morales,App Móvil,2026-07-07,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Smart TV 55,,Baja,
+SOL-0155,Ana Gómez,Correo,2026-06-14,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,León,Baja,
+SOL-0288,Ricardo Morales,,2026-07-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,CDMX,,
+SOL-0603,Alejandro Ruiz,Correo,2026-07-01,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,Mérida,,Solicita hablar con un supervisor de inmediato.
+SOL-0570,Lucía Méndez,Web,2026-06-24,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0744,Lucía Méndez,WhatsApp,2026-07-06,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Producto X,Mérida,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0018,Javier Ríos,Chatbot,2026-07-04,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Puebla,,Paquete maltratado por la paquetería.
+SOL-0128,,Correo,2026-06-13,¿Tienen stock disponible del modelo avanzado en color negro?,Soporte Técnico,Mérida,,
+SOL-0323,Alejandro Ruiz,,2026-06-03,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Mérida,,Paquete maltratado por la paquetería.
+SOL-0256,Mónica Vargas,App Móvil,2026-07-11,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Guadalajara,Baja,El cliente agradeció la explicación inicial.
+SOL-0658,María Rodríguez,Web,,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Banca Móvil,,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0209,Pedro Castillo,WhatsApp,2026-06-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,,Alta,
+SOL-0191,María Rodríguez,WhatsApp,2026-06-01,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Suscripción Premium,,Media,
+SOL-0116,Ricardo Morales,Web,2026-06-30,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,CDMX,Media,
+SOL-0617,Gabriela López,Web,2026-06-06,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Mérida,Media,
+SOL-0607,Elena Vasquez,Web,2026-06-08,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Puebla,Urgente,Paquete maltratado por la paquetería.
+SOL-0181,,Chatbot,2026-06-09,,Logística,León,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0302,Mónica Vargas,Chatbot,2026-06-17,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Tijuana,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0760,,Chatbot,2026-07-08,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,,Media,
+SOL-0713,Carlos Mendoza,App Móvil,2026-06-16,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Guadalajara,,Es un cliente potencial nuevo.
+SOL-0724,Mónica Vargas,App Móvil,2026-06-03,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,Querétaro,Alta,
+SOL-0686,Gabriela López,Correo,2026-06-06,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,Guadalajara,Baja,El cliente agradeció la explicación inicial.
+SOL-0653,Sofía Martínez,,2026-06-02,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Guadalajara,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0518,Pedro Castillo,WhatsApp,2026-07-07,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,,Urgente,
+SOL-0207,,Web,2026-06-12,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Querétaro,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0046,Laura Torrez,App Móvil,2026-06-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,León,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0910,Carmen Jiménez,Llamada,2026-07-10,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0158,Patricia Silva,,2026-06-23,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,,,Requiere seguimiento por correo al final del día.
+SOL-0852,Carlos Mendoza,Correo,2026-07-07,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Querétaro,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0172,Fernando Ortiz,Chatbot,2026-06-12,¿Tienen stock disponible del modelo avanzado en color negro?,,Mérida,Alta,Es un cliente potencial nuevo.
+SOL-0017,,Correo,2026-06-04,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Banca Móvil,Monterrey,,
+SOL-0512,,Llamada,2026-07-06,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,León,Urgente,
+SOL-0049,Elena Vasquez,Correo,,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,CDMX,,
+SOL-0265,Sofía Martínez,Correo,2026-07-05,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Banca Móvil,Guadalajara,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0513,Ricardo Morales,Chatbot,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,CDMX,Alta,
+SOL-0516,Diego Delgado,,2026-06-18,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Logística,CDMX,Baja,El cliente agradeció la explicación inicial.
+SOL-0040,Ana Gómez,,2026-07-05,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Querétaro,Alta,El cliente agradeció la explicación inicial.
+SOL-0481,Carlos Mendoza,Llamada,2026-07-08,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,Mérida,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0284,Gabriela López,WhatsApp,2026-07-04,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,,Urgente,
+SOL-0719,Sofía Martínez,Chatbot,2026-06-25,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Mérida,Urgente,
+SOL-0878,Sofía Martínez,Correo,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Querétaro,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0226,Ana Gómez,Llamada,2026-06-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Puebla,Baja,
+SOL-0027,Mónica Vargas,App Móvil,2026-06-13,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,Guadalajara,Baja,
+SOL-0683,Carlos Mendoza,,,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,CDMX,Urgente,Paquete maltratado por la paquetería.
+SOL-0438,Diego Delgado,Web,2026-06-10,,Smart TV 55,Guadalajara,Alta,
+SOL-0064,Ricardo Morales,Chatbot,2026-06-23,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Mérida,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0365,Carmen Jiménez,,2026-06-20,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,Puebla,Alta,Dejar nota para el equipo de finanzas.
+SOL-0230,Carmen Jiménez,Chatbot,2026-06-19,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Guadalajara,Urgente,
+SOL-0038,Juan Pérez,Llamada,2026-06-08,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,León,,
+SOL-0740,,Web,2026-07-01,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Monterrey,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0375,Carmen Jiménez,Llamada,2026-07-10,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Tijuana,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0470,Javier Ríos,WhatsApp,2026-07-04,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Monterrey,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0829,María Rodríguez,Correo,2026-06-08,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Facturación,,Baja,
+SOL-0851,Carmen Jiménez,Llamada,2026-06-26,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,CDMX,Baja,Dejar nota para el equipo de finanzas.
+SOL-0705,Sofía Martínez,Correo,2026-06-03,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,CDMX,Baja,
+SOL-0842,Gabriela López,Chatbot,2026-07-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,CDMX,Baja,El cliente agradeció la explicación inicial.
+SOL-0195,Ricardo Morales,,2026-06-30,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Mérida,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0855,Patricia Silva,Web,2026-06-22,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Smart TV 55,Querétaro,Media,Es un cliente potencial nuevo.
+SOL-0865,Lucía Méndez,Llamada,2026-07-01,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,Querétaro,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0504,Roberto Flores,Chatbot,,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0071,Elena Vasquez,Web,2026-06-07,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Querétaro,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0831,,App Móvil,2026-06-21,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,Puebla,,Requiere seguimiento por correo al final del día.
+SOL-0580,Luis Hernández,App Móvil,2026-06-15,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,,Media,Dejar nota para el equipo de finanzas.
+SOL-0236,María Rodríguez,Llamada,,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Tijuana,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0163,Carmen Jiménez,Correo,2026-06-20,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,Puebla,Urgente,
+SOL-0909,Gabriela López,WhatsApp,2026-06-05,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,León,,Es un cliente potencial nuevo.
+SOL-0153,Carmen Jiménez,Chatbot,2026-06-17,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Mérida,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0802,Diego Delgado,App Móvil,2026-06-29,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Guadalajara,Alta,
+SOL-0434,Sofía Martínez,,2026-06-09,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,Querétaro,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0756,Gabriela López,Chatbot,2026-06-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Producto X,Puebla,Baja,
+SOL-0112,Patricia Silva,Chatbot,2026-06-27,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Smart TV 55,Guadalajara,Media,
+SOL-0227,Patricia Silva,Chatbot,2026-07-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Monterrey,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0689,Lucía Méndez,Web,2026-06-01,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,Monterrey,,"El cliente suena confundido, se cortó la llamada."
+SOL-0104,Ricardo Morales,,2026-07-01,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,Puebla,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0422,Lucía Méndez,App Móvil,2026-06-18,,Suscripción Premium,León,Media,Paquete maltratado por la paquetería.
+SOL-0420,Lucía Méndez,Web,2026-06-25,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Banca Móvil,Mérida,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0751,Gabriela López,Chatbot,2026-06-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,CDMX,,Paquete maltratado por la paquetería.
+SOL-0587,Mónica Vargas,Chatbot,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Soporte Técnico,,,
+SOL-0781,,Correo,2026-07-02,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Puebla,Baja,
+SOL-0673,Mónica Vargas,,2026-06-04,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,CDMX,,
+SOL-0120,Javier Ríos,Chatbot,2026-06-13,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0054,Sofía Martínez,Llamada,2026-07-03,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,León,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0152,Mónica Vargas,Llamada,2026-06-01,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,Mérida,Baja,
+SOL-0404,María Rodríguez,Web,2026-06-15,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Monterrey,Media,Requiere seguimiento por correo al final del día.
+SOL-0240,Sofía Martínez,Llamada,,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",,Mérida,Urgente,Es un cliente potencial nuevo.
+SOL-0208,Patricia Silva,Chatbot,2026-06-20,,Smart TV 55,CDMX,,Cliente molesto porque no puede pagar su renta.
+SOL-0659,Juan Pérez,Llamada,2026-07-11,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Querétaro,Media,
+SOL-0844,Laura Torrez,,2026-06-05,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0763,Gabriela López,Correo,2026-06-02,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,León,Baja,
+SOL-0009,Sofía Martínez,App Móvil,2026-06-20,¿Tienen stock disponible del modelo avanzado en color negro?,,Puebla,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0808,Fernando Ortiz,Chatbot,2026-07-11,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Puebla,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0037,Lucía Méndez,Web,2026-06-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,CDMX,,
+SOL-0453,Sofía Martínez,Chatbot,2026-07-08,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Mérida,Urgente,
+SOL-0652,Gabriela López,Correo,2026-07-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,Tijuana,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0254,Javier Ríos,Correo,2026-06-09,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,Querétaro,Urgente,
+SOL-0304,Roberto Flores,WhatsApp,2026-06-11,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Querétaro,Baja,"El cliente suena confundido, se cortó la llamada."
+SOL-0747,Lucía Méndez,Correo,2026-07-06,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,CDMX,,Cliente molesto porque no puede pagar su renta.
+SOL-0572,Pedro Castillo,WhatsApp,2026-07-11,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,CDMX,Baja,Dejar nota para el equipo de finanzas.
+SOL-0624,Laura Torrez,Correo,2026-06-25,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Guadalajara,Urgente,Es un cliente potencial nuevo.
+SOL-0733,Diego Delgado,WhatsApp,2026-06-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Querétaro,Urgente,
+SOL-0892,,Llamada,2026-07-01,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Monterrey,Baja,
+SOL-0263,Carmen Jiménez,Chatbot,2026-07-01,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Logística,CDMX,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0611,Juan Pérez,Web,2026-06-24,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Querétaro,,Paquete maltratado por la paquetería.
+SOL-0298,Diego Delgado,Llamada,2026-06-21,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,CDMX,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0415,Juan Pérez,Web,2026-06-19,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Monterrey,,
+SOL-0151,Juan Pérez,App Móvil,2026-06-15,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Monterrey,Alta,
+SOL-0789,Roberto Flores,Llamada,2026-06-08,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Mérida,Baja,Requiere seguimiento por correo al final del día.
+SOL-0641,,Correo,2026-06-05,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,Querétaro,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0890,Javier Ríos,Correo,2026-06-10,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,León,,
+SOL-0551,Roberto Flores,Correo,2026-06-07,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Monterrey,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0887,Gabriela López,Web,2026-06-21,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Monterrey,Media,Paquete maltratado por la paquetería.
+SOL-0489,Patricia Silva,Web,2026-06-19,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Guadalajara,Baja,
+SOL-0148,Sofía Martínez,,2026-07-01,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,Querétaro,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0147,Sofía Martínez,App Móvil,2026-07-01,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Suscripción Premium,Puebla,Urgente,Paquete maltratado por la paquetería.
+SOL-0721,,,,¿Tienen stock disponible del modelo avanzado en color negro?,Producto X,Monterrey,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0670,,App Móvil,2026-07-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,Mérida,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0740,,Web,2026-07-01,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Monterrey,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0660,Ana Gómez,Web,2026-06-06,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Suscripción Premium,,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0349,Fernando Ortiz,Web,2026-07-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,,Media,
+SOL-0464,Fernando Ortiz,WhatsApp,2026-06-01,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,,Urgente,
+SOL-0326,Alejandro Ruiz,Web,2026-06-29,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Smart TV 55,CDMX,Alta,
+SOL-0187,Laura Torrez,Correo,2026-07-04,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,Puebla,Urgente,
+SOL-0124,Elena Vasquez,WhatsApp,2026-07-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Puebla,Alta,Dejar nota para el equipo de finanzas.
+SOL-0854,,Llamada,2026-06-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Puebla,Baja,
+SOL-0609,Elena Vasquez,Correo,2026-06-22,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,CDMX,,
+SOL-0144,,App Móvil,2026-06-25,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Querétaro,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0840,Fernando Ortiz,App Móvil,,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Querétaro,Baja,
+SOL-0198,Gabriela López,,2026-06-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,Monterrey,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0610,,App Móvil,2026-06-21,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,,,Requiere seguimiento por correo al final del día.
+SOL-0280,,Llamada,2026-06-14,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,Tijuana,,
+SOL-0294,Elena Vasquez,Web,2026-06-27,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,CDMX,Baja,
+SOL-0401,Fernando Ortiz,WhatsApp,2026-06-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Monterrey,,Cliente molesto porque no puede pagar su renta.
+SOL-0123,Javier Ríos,Web,2026-07-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,León,Baja,
+SOL-0184,Juan Pérez,Llamada,2026-06-05,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,,Alta,
+SOL-0203,Pedro Castillo,WhatsApp,2026-06-03,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,Monterrey,Urgente,
+SOL-0439,María Rodríguez,Llamada,2026-07-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Monterrey,Baja,Requiere seguimiento por correo al final del día.
+SOL-0247,Diego Delgado,App Móvil,2026-07-07,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Puebla,Baja,El cliente agradeció la explicación inicial.
+SOL-0416,Juan Pérez,Llamada,2026-06-17,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0031,Sofía Martínez,Llamada,2026-06-15,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Logística,León,Alta,El cliente agradeció la explicación inicial.
+SOL-0766,Juan Pérez,App Móvil,2026-06-12,¿Tienen stock disponible del modelo avanzado en color negro?,Logística,Monterrey,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0907,Pedro Castillo,Llamada,2026-07-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,,Alta,
+SOL-0836,Luis Hernández,Correo,2026-06-15,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,Monterrey,Media,
+SOL-0888,Lucía Méndez,Web,2026-06-20,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,Monterrey,,
+SOL-0130,Laura Torrez,App Móvil,,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,Guadalajara,Media,
+SOL-0638,Ana Gómez,Web,2026-06-11,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,León,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0403,Fernando Ortiz,Correo,2026-06-25,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,,Media,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0785,,App Móvil,2026-06-30,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,León,Baja,
+SOL-0771,,Web,2026-06-13,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Producto X,Mérida,Urgente,
+SOL-0736,Elena Vasquez,,2026-06-18,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Puebla,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0914,Mónica Vargas,Correo,2026-06-18,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,Querétaro,Media,
+SOL-0220,,,2026-06-29,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,,Media,
+SOL-0642,Sofía Martínez,Chatbot,2026-07-02,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,Mérida,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0916,Mónica Vargas,Correo,2026-07-09,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Logística,Querétaro,,
+SOL-0753,Juan Pérez,WhatsApp,2026-06-21,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Tijuana,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0807,María Rodríguez,Chatbot,2026-07-01,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Tijuana,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0920,Alejandro Ruiz,,2026-06-16,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,,Alta,Paquete maltratado por la paquetería.
+SOL-0625,Roberto Flores,WhatsApp,2026-07-09,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Tijuana,Baja,
+SOL-0875,Ana Gómez,Llamada,2026-06-14,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Guadalajara,,Cliente molesto porque no puede pagar su renta.
+SOL-0761,Roberto Flores,WhatsApp,2026-06-09,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Logística,León,Urgente,
+SOL-0387,Pedro Castillo,Web,2026-06-11,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,,Alta,
+SOL-0782,Lucía Méndez,Correo,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Guadalajara,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0510,Mónica Vargas,Chatbot,2026-06-05,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,Tijuana,Alta,Es un cliente potencial nuevo.
+SOL-0268,Carmen Jiménez,WhatsApp,2026-06-19,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Smart TV 55,Tijuana,Urgente,
+SOL-0820,Lucía Méndez,Correo,2026-06-10,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Producto X,Puebla,,Dejar nota para el equipo de finanzas.
+SOL-0442,Diego Delgado,,,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,Tijuana,,"El cliente suena confundido, se cortó la llamada."
+SOL-0497,Diego Delgado,Llamada,2026-07-08,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Tijuana,Baja,
+SOL-0113,Juan Pérez,Llamada,2026-07-03,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Logística,CDMX,Alta,El cliente agradeció la explicación inicial.
+SOL-0692,Lucía Méndez,WhatsApp,2026-06-09,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,,Baja,
+SOL-0233,Mónica Vargas,Correo,2026-06-22,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Puebla,Baja,Paquete maltratado por la paquetería.
+SOL-0870,Mónica Vargas,WhatsApp,2026-06-22,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Monterrey,Media,Dejar nota para el equipo de finanzas.
+SOL-0608,Juan Pérez,Correo,2026-06-08,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,CDMX,Baja,Paquete maltratado por la paquetería.
+SOL-0672,,Chatbot,2026-06-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,CDMX,Alta,Es un cliente potencial nuevo.
+SOL-0374,Juan Pérez,Web,2026-06-09,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,Guadalajara,Alta,Es un cliente potencial nuevo.
+SOL-0477,Diego Delgado,,2026-06-08,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,León,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0843,Juan Pérez,Chatbot,2026-07-10,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Puebla,Baja,
+SOL-0234,Javier Ríos,Chatbot,2026-07-10,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,Puebla,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0786,Carlos Mendoza,Chatbot,,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Producto X,Querétaro,Urgente,
+SOL-0677,Luis Hernández,Llamada,2026-06-13,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,,,"El cliente suena confundido, se cortó la llamada."
+SOL-0318,Ricardo Morales,Web,2026-06-09,"Buenas tardes, quería saber cómo funciona la plataforma",Banca Móvil,León,Urgente,El cliente agradeció la explicación inicial.
+SOL-0649,,WhatsApp,2026-06-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Monterrey,Urgente,
+SOL-0411,Sofía Martínez,Llamada,2026-07-05,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Mérida,Urgente,
+SOL-0899,,Chatbot,2026-06-08,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Monterrey,,
+SOL-0710,Lucía Méndez,Chatbot,2026-07-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,León,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0359,Carmen Jiménez,WhatsApp,2026-06-20,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,Querétaro,Alta,
+SOL-0259,Pedro Castillo,Chatbot,2026-06-04,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Mérida,Media,Requiere seguimiento por correo al final del día.
+SOL-0745,Laura Torrez,Llamada,2026-06-27,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,,Monterrey,Media,
+SOL-0628,,Llamada,2026-06-27,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,León,,Solicita hablar con un supervisor de inmediato.
+SOL-0633,Fernando Ortiz,Chatbot,2026-06-17,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Mérida,Media,
+SOL-0283,Juan Pérez,Chatbot,2026-06-07,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,CDMX,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0377,Diego Delgado,WhatsApp,2026-07-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Guadalajara,Media,Dejar nota para el equipo de finanzas.
+SOL-0385,,App Móvil,2026-06-29,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Mérida,Baja,
+SOL-0225,Gabriela López,WhatsApp,2026-07-03,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Guadalajara,,
+SOL-0875,Ana Gómez,Llamada,2026-06-14,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Guadalajara,,Cliente molesto porque no puede pagar su renta.
+SOL-0815,Laura Torrez,Chatbot,2026-06-14,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Monterrey,Baja,Es un cliente potencial nuevo.
+SOL-0473,,Correo,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Tijuana,,Es un cliente potencial nuevo.
+SOL-0348,Ricardo Morales,Chatbot,2026-06-25,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,,Baja,Requiere seguimiento por correo al final del día.
+SOL-0506,Juan Pérez,Llamada,2026-06-21,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,Guadalajara,Alta,
+SOL-0640,,Chatbot,2026-06-05,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,,,
+SOL-0551,Roberto Flores,Correo,2026-06-07,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Monterrey,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0929,,WhatsApp,2026-06-10,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,,Tijuana,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0906,María Rodríguez,WhatsApp,2026-06-23,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,León,,
+SOL-0620,,WhatsApp,2026-06-20,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Tijuana,,Amenaza con ir a la procuraduría del consumidor.
+SOL-0856,,Chatbot,2026-06-05,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,Guadalajara,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0804,Javier Ríos,Web,2026-07-09,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,Monterrey,,El cliente agradeció la explicación inicial.
+SOL-0646,Ana Gómez,Web,2026-06-28,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,,Media,
+SOL-0847,Mónica Vargas,,2026-07-10,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,Guadalajara,,"El cliente suena confundido, se cortó la llamada."
+SOL-0557,Ana Gómez,App Móvil,,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,Puebla,Urgente,
+SOL-0605,Lucía Méndez,Llamada,2026-07-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",,,,
+SOL-0578,,Chatbot,2026-06-15,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,CDMX,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0796,Diego Delgado,Chatbot,2026-07-05,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Suscripción Premium,,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0086,Laura Torrez,App Móvil,2026-06-22,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Monterrey,Alta,
+SOL-0243,,Web,,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Producto X,Mérida,Urgente,
+SOL-0699,Carlos Mendoza,Chatbot,2026-06-20,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,León,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0160,,WhatsApp,2026-06-06,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Soporte Técnico,Guadalajara,,Solicita hablar con un supervisor de inmediato.
+SOL-0525,Luis Hernández,App Móvil,2026-06-13,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Querétaro,Media,Dejar nota para el equipo de finanzas.
+SOL-0036,Ricardo Morales,Chatbot,2026-07-07,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Guadalajara,Urgente,
+SOL-0541,Carmen Jiménez,Llamada,2026-06-02,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0171,Mónica Vargas,Correo,2026-06-24,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,León,,"El cliente suena confundido, se cortó la llamada."
+SOL-0655,Elena Vasquez,,2026-06-19,,,Mérida,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0891,Roberto Flores,WhatsApp,2026-06-02,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Logística,CDMX,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0858,Fernando Ortiz,App Móvil,2026-06-14,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Mérida,,Cliente molesto porque no puede pagar su renta.
+SOL-0848,Patricia Silva,Web,2026-06-15,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Banca Móvil,Guadalajara,Baja,
+SOL-0555,Elena Vasquez,WhatsApp,2026-07-10,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,Mérida,,
+SOL-0734,Diego Delgado,Chatbot,2026-07-08,,Logística,Tijuana,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0096,Fernando Ortiz,Web,2026-06-25,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Tijuana,,Paquete maltratado por la paquetería.
+SOL-0564,Juan Pérez,Web,2026-06-16,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Soporte Técnico,Monterrey,Alta,
+SOL-0241,Lucía Méndez,WhatsApp,2026-07-03,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Guadalajara,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0743,María Rodríguez,Llamada,2026-06-21,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Querétaro,Urgente,Es un cliente potencial nuevo.
+SOL-0575,Ricardo Morales,Web,2026-06-15,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,León,Alta,Es un cliente potencial nuevo.
+SOL-0691,,Chatbot,2026-06-28,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Monterrey,Media,"El cliente suena confundido, se cortó la llamada."
+SOL-0461,Javier Ríos,Correo,2026-06-02,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Soporte Técnico,Puebla,,Dejar nota para el equipo de finanzas.
+SOL-0554,Juan Pérez,Web,2026-06-12,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Querétaro,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0889,,App Móvil,2026-06-25,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Soporte Técnico,Tijuana,Media,Dejar nota para el equipo de finanzas.
+SOL-0207,,Web,2026-06-12,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Querétaro,Baja,Requiere seguimiento por correo al final del día.
+SOL-0393,Carlos Mendoza,WhatsApp,2026-06-22,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Producto X,CDMX,Urgente,
+SOL-0795,María Rodríguez,Correo,2026-06-26,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Smart TV 55,Querétaro,Media,Solicita hablar con un supervisor de inmediato.
+SOL-0398,Patricia Silva,App Móvil,2026-06-09,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,Mérida,,Solicita hablar con un supervisor de inmediato.
+SOL-0767,Carmen Jiménez,App Móvil,,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Logística,Querétaro,,
+SOL-0849,,Web,2026-07-11,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Tijuana,Baja,
+SOL-0218,Alejandro Ruiz,Llamada,2026-06-30,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,Mérida,Alta,Es un cliente potencial nuevo.
+SOL-0005,María Rodríguez,Chatbot,2026-06-16,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Tijuana,Baja,
+SOL-0769,,,2026-06-30,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Logística,Guadalajara,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0643,Diego Delgado,Llamada,2026-06-17,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,CDMX,Alta,
+SOL-0930,Alejandro Ruiz,App Móvil,2026-06-19,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0613,Mónica Vargas,Web,2026-06-24,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Facturación,Guadalajara,Urgente,
+SOL-0739,Ana Gómez,Llamada,,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,,Media,El cliente agradeció la explicación inicial.
+SOL-0547,,Llamada,2026-06-22,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0726,Javier Ríos,WhatsApp,2026-06-07,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,Querétaro,Baja,Paquete maltratado por la paquetería.
+SOL-0684,Sofía Martínez,WhatsApp,2026-06-20,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Facturación,,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0099,Juan Pérez,App Móvil,2026-07-01,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,,Alta,
+SOL-0805,Patricia Silva,App Móvil,2026-06-29,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Monterrey,,
+SOL-0728,Pedro Castillo,Correo,2026-06-24,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,,Alta,Paquete maltratado por la paquetería.
+SOL-0574,Fernando Ortiz,Correo,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,,Media,
+SOL-0407,Roberto Flores,,2026-07-01,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Monterrey,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0503,Javier Ríos,WhatsApp,2026-07-07,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Suscripción Premium,León,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0048,Diego Delgado,,2026-06-29,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Smart TV 55,Mérida,Urgente,
+SOL-0033,Laura Torrez,Correo,2026-06-18,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Guadalajara,Media,
+SOL-0780,Roberto Flores,Web,2026-07-02,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,CDMX,Media,
+SOL-0840,Fernando Ortiz,App Móvil,,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Querétaro,Baja,
+SOL-0201,,Llamada,2026-07-03,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Mérida,Baja,
+SOL-0135,Laura Torrez,App Móvil,2026-06-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,Querétaro,Media,Paquete maltratado por la paquetería.
+SOL-0028,Juan Pérez,,2026-06-27,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Smart TV 55,Monterrey,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0881,Juan Pérez,,2026-06-17,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Suscripción Premium,Querétaro,Urgente,
+SOL-0231,Diego Delgado,Correo,2026-06-04,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Tijuana,,Es un cliente potencial nuevo.
+SOL-0490,,,2026-06-27,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Querétaro,Alta,
+SOL-0773,Diego Delgado,Correo,2026-06-17,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,Mérida,Alta,Amenaza con ir a la procuraduría del consumidor.
+SOL-0379,Alejandro Ruiz,WhatsApp,2026-07-11,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,Monterrey,Alta,
+SOL-0289,,Chatbot,2026-06-03,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,,Tijuana,Baja,Requiere seguimiento por correo al final del día.
+SOL-0419,Diego Delgado,Correo,2026-06-18,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Banca Móvil,,Urgente,Amenaza con ir a la procuraduría del consumidor.
+SOL-0675,Roberto Flores,,2026-06-19,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Querétaro,Media,Paquete maltratado por la paquetería.
+SOL-0392,Fernando Ortiz,App Móvil,2026-06-13,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,Puebla,Alta,Requiere seguimiento por correo al final del día.
+SOL-0593,Elena Vasquez,Web,2026-06-01,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Smart TV 55,Puebla,,
+SOL-0499,Javier Ríos,Web,2026-06-03,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,Guadalajara,,"El cliente suena confundido, se cortó la llamada."
+SOL-0139,Laura Torrez,Llamada,2026-06-12,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Suscripción Premium,Tijuana,,Solicita hablar con un supervisor de inmediato.
+SOL-0063,Fernando Ortiz,Web,2026-07-05,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Banca Móvil,León,Baja,
+SOL-0472,Javier Ríos,Correo,2026-06-14,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Mérida,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0648,María Rodríguez,App Móvil,2026-06-28,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,Tijuana,Alta,El cliente agradeció la explicación inicial.
+SOL-0129,Pedro Castillo,App Móvil,2026-07-01,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Monterrey,Alta,
+SOL-0558,,Correo,2026-06-06,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Puebla,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0521,Ana Gómez,Web,2026-06-25,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Banca Móvil,Tijuana,,Requiere seguimiento por correo al final del día.
+SOL-0839,Luis Hernández,Llamada,2026-07-10,"Buenas tardes, quería saber cómo funciona la plataforma",Soporte Técnico,León,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0468,Ana Gómez,Correo,2026-06-10,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Suscripción Premium,,Alta,Dejar nota para el equipo de finanzas.
+SOL-0065,Laura Torrez,Correo,2026-07-09,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,,,Media,
+SOL-0813,Mónica Vargas,Correo,2026-06-22,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Mérida,,
+SOL-0015,Mónica Vargas,WhatsApp,2026-06-04,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,CDMX,Alta,
+SOL-0157,Roberto Flores,Chatbot,2026-06-23,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0041,Juan Pérez,Llamada,2026-06-12,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,,Urgente,
+SOL-0493,Laura Torrez,WhatsApp,2026-06-03,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Tijuana,,
+SOL-0380,Alejandro Ruiz,Web,2026-06-17,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Guadalajara,,Requiere seguimiento por correo al final del día.
+SOL-0188,Carlos Mendoza,Web,2026-06-21,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,,Baja,
+SOL-0764,Fernando Ortiz,Web,2026-07-04,,Banca Móvil,Mérida,Baja,Amenaza con ir a la procuraduría del consumidor.
+SOL-0217,Laura Torrez,WhatsApp,2026-07-01,¿Tienen stock disponible del modelo avanzado en color negro?,Banca Móvil,Mérida,Urgente,Dejar nota para el equipo de finanzas.
+SOL-0792,Mónica Vargas,WhatsApp,2026-06-22,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Producto X,Querétaro,,Es un cliente potencial nuevo.
+SOL-0053,Gabriela López,Llamada,2026-06-22,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Facturación,,,
+SOL-0879,Ricardo Morales,,2026-06-06,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",,León,,Es un cliente potencial nuevo.
+SOL-0338,Elena Vasquez,Chatbot,2026-06-18,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Banca Móvil,,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0749,Mónica Vargas,Chatbot,2026-06-10,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Tijuana,,Requiere seguimiento por correo al final del día.
+SOL-0720,Carlos Mendoza,Web,2026-06-18,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Mérida,Baja,
+SOL-0725,Lucía Méndez,Web,2026-06-10,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,Querétaro,Baja,
+SOL-0296,Sofía Martínez,WhatsApp,2026-07-02,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,CDMX,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0702,Elena Vasquez,WhatsApp,2026-06-07,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Facturación,León,Baja,Paquete maltratado por la paquetería.
+SOL-0252,Lucía Méndez,WhatsApp,2026-06-17,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0727,Elena Vasquez,Chatbot,2026-07-03,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Tijuana,Alta,El cliente agradeció la explicación inicial.
+SOL-0462,,WhatsApp,2026-06-01,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Soporte Técnico,Tijuana,Urgente,
+SOL-0456,Alejandro Ruiz,Chatbot,2026-06-25,"Buenas tardes, quería saber cómo funciona la plataforma",Facturación,Querétaro,Alta,
+SOL-0414,Pedro Castillo,Llamada,2026-07-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,León,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0816,,Llamada,2026-06-18,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,León,Baja,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0863,,Chatbot,2026-06-27,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,,Alta,
+SOL-0270,Lucía Méndez,App Móvil,2026-07-03,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Suscripción Premium,Monterrey,Media,Requiere seguimiento por correo al final del día.
+SOL-0202,Carlos Mendoza,WhatsApp,2026-06-15,,,Tijuana,Baja,
+SOL-0162,Carmen Jiménez,Chatbot,2026-06-13,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,Monterrey,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0556,Carmen Jiménez,Llamada,2026-06-22,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Producto X,Querétaro,Alta,
+SOL-0730,,Chatbot,2026-07-02,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,Puebla,,
+SOL-0402,Pedro Castillo,Correo,2026-06-08,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,Guadalajara,,Solicita hablar con un supervisor de inmediato.
+SOL-0703,Lucía Méndez,WhatsApp,2026-06-04,,Producto X,,Alta,
+SOL-0477,Diego Delgado,,2026-06-08,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,León,Media,Es un cliente potencial nuevo.
+SOL-0822,,WhatsApp,2026-06-27,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,León,Alta,
+SOL-0772,Javier Ríos,Llamada,2026-06-10,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Soporte Técnico,Puebla,Urgente,
+SOL-0106,Pedro Castillo,,2026-06-19,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,Tijuana,Media,Dejar nota para el equipo de finanzas.
+SOL-0566,Juan Pérez,Web,,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Tijuana,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0390,Roberto Flores,Chatbot,2026-06-15,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",,León,Alta,Requiere seguimiento por correo al final del día.
+SOL-0002,Mónica Vargas,Llamada,2026-06-15,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,,,Es un cliente potencial nuevo.
+SOL-0488,Luis Hernández,Web,2026-06-11,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,León,Urgente,
+SOL-0144,,App Móvil,2026-06-25,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,Querétaro,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0562,Javier Ríos,WhatsApp,2026-06-27,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Banca Móvil,Guadalajara,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0081,Carlos Mendoza,WhatsApp,2026-07-04,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Smart TV 55,Tijuana,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0206,Alejandro Ruiz,WhatsApp,2026-07-01,"Quiero cambiar mi dirección de entrega para el pedido que hice ayer por la tarde, urge.",Producto X,Puebla,Media,Amenaza con ir a la procuraduría del consumidor.
+SOL-0035,Elena Vasquez,Llamada,2026-06-15,"Buenas tardes, quería saber cómo funciona la plataforma",Smart TV 55,,Alta,
+SOL-0776,,WhatsApp,2026-06-27,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Mérida,,Requiere seguimiento por correo al final del día.
+SOL-0509,Carmen Jiménez,Web,2026-06-11,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Banca Móvil,León,Baja,
+SOL-0428,Luis Hernández,Chatbot,2026-07-10,,Logística,Guadalajara,,Dejar nota para el equipo de finanzas.
+SOL-0455,Elena Vasquez,Web,,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Smart TV 55,,Baja,Cliente molesto porque no puede pagar su renta.
+SOL-0367,,Llamada,2026-06-11,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,Querétaro,Media,El cliente agradeció la explicación inicial.
+SOL-0092,Roberto Flores,Chatbot,2026-06-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Mérida,Urgente,Es un cliente potencial nuevo.
+SOL-0340,Laura Torrez,App Móvil,2026-07-04,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,,Tijuana,Media,Requiere seguimiento por correo al final del día.
+SOL-0898,,Web,2026-06-24,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Soporte Técnico,,Urgente,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0565,Lucía Méndez,Correo,2026-06-28,"Buenas tardes, quería saber cómo funciona la plataforma",,Mérida,Urgente,
+SOL-0346,Fernando Ortiz,App Móvil,2026-06-29,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Guadalajara,Media,Requiere seguimiento por correo al final del día.
+SOL-0777,Juan Pérez,Correo,2026-06-22,,,Guadalajara,Baja,
+SOL-0242,,WhatsApp,2026-07-06,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Suscripción Premium,,,Paquete maltratado por la paquetería.
+SOL-0014,Ana Gómez,Llamada,2026-06-22,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Logística,Guadalajara,Media,Paquete maltratado por la paquetería.
+SOL-0316,Alejandro Ruiz,Chatbot,2026-06-08,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Puebla,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0601,Carlos Mendoza,,2026-07-11,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Smart TV 55,Puebla,Baja,
+SOL-0388,Ricardo Morales,Correo,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,Tijuana,Media,Requiere seguimiento por correo al final del día.
+SOL-0274,Mónica Vargas,Correo,2026-06-17,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Facturación,Guadalajara,,
+SOL-0167,Lucía Méndez,WhatsApp,2026-06-01,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Producto X,Puebla,Media,
+SOL-0841,Laura Torrez,Correo,2026-06-23,"Buenas tardes, quería saber cómo funciona la plataforma",,Tijuana,Alta,
+SOL-0535,Elena Vasquez,,2026-06-05,,Banca Móvil,Mérida,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0647,,Llamada,2026-07-04,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,Mérida,Media,Cliente molesto porque no puede pagar su renta.
+SOL-0819,,App Móvil,2026-07-02,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Producto X,Tijuana,Alta,
+SOL-0485,Lucía Méndez,Llamada,2026-06-20,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Suscripción Premium,,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0198,Gabriela López,,2026-06-06,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Banca Móvil,Monterrey,Alta,DUPLICADO O ACTUALIZACIÓN DE REGISTRO SISTEMA
+SOL-0505,Laura Torrez,Correo,2026-06-12,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,Guadalajara,Media,
+SOL-0832,Laura Torrez,Web,2026-07-10,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Logística,Monterrey,Urgente,Es un cliente potencial nuevo.
+SOL-0244,Ana Gómez,WhatsApp,2026-06-09,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,Monterrey,,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0567,María Rodríguez,Correo,2026-06-24,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Facturación,,,Dejar nota para el equipo de finanzas.
+SOL-0876,Ricardo Morales,WhatsApp,2026-06-10,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Puebla,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0563,Gabriela López,App Móvil,2026-06-04,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,,Tijuana,,Paquete maltratado por la paquetería.
+SOL-0687,Lucía Méndez,Web,2026-06-20,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,,,Alta,
+SOL-0190,Mónica Vargas,Web,2026-06-26,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Facturación,Guadalajara,Baja,
+SOL-0783,Fernando Ortiz,WhatsApp,2026-07-02,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,Tijuana,Urgente,Cliente molesto porque no puede pagar su renta.
+SOL-0700,Gabriela López,App Móvil,2026-07-04,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,Guadalajara,Media,
+SOL-0476,Laura Torrez,Correo,2026-07-04,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,CDMX,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0682,Elena Vasquez,Correo,,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Banca Móvil,Monterrey,Media,
+SOL-0511,Alejandro Ruiz,App Móvil,,"Buenas tardes, quería saber cómo funciona la plataforma",Suscripción Premium,,Baja,Paquete maltratado por la paquetería.
+SOL-0059,,Llamada,,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Soporte Técnico,Querétaro,,Dejar nota para el equipo de finanzas.
+SOL-0475,Pedro Castillo,Llamada,2026-06-15,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,Monterrey,,
+SOL-0561,Patricia Silva,Correo,2026-06-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Suscripción Premium,CDMX,Alta,
+SOL-0857,Laura Torrez,Chatbot,2026-07-07,,Producto X,Puebla,,Cliente molesto porque no puede pagar su renta.
+SOL-0748,Elena Vasquez,WhatsApp,2026-06-18,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Banca Móvil,Tijuana,Urgente,
+SOL-0253,Sofía Martínez,,2026-06-30,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,Monterrey,Urgente,
+SOL-0022,Mónica Vargas,WhatsApp,2026-06-08,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Facturación,Monterrey,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0314,Elena Vasquez,,2026-06-29,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,CDMX,Media,
+SOL-0460,Pedro Castillo,Llamada,2026-07-01,¿Tienen stock disponible del modelo avanzado en color negro?,Facturación,Monterrey,Baja,Es un cliente potencial nuevo.
+SOL-0161,,Correo,2026-06-09,"Buenas tardes, quería saber cómo funciona la plataforma",,Mérida,,Es un cliente potencial nuevo.
+SOL-0277,,Llamada,2026-07-01,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Smart TV 55,CDMX,Alta,"Reincidente, es la tercera vez que reporta el mismo fallo."
+SOL-0544,Fernando Ortiz,Llamada,2026-07-07,"Mi app no carga desde la última actualización, necesito entrar urgente para transferir mi dinero.",Facturación,Guadalajara,Baja,
+SOL-0192,Sofía Martínez,WhatsApp,2026-06-22,Necesito cancelar mi suscripción antes de que me cobren el siguiente mes automáticamente.,Smart TV 55,Mérida,Alta,"El cliente suena confundido, se cortó la llamada."
+SOL-0386,Sofía Martínez,WhatsApp,2026-07-09,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,Smart TV 55,Monterrey,Alta,Es un cliente potencial nuevo.
+SOL-0806,Gabriela López,App Móvil,2026-07-03,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Logística,Tijuana,Urgente,Requiere seguimiento por correo al final del día.
+SOL-0414,Pedro Castillo,Llamada,2026-07-08,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Facturación,León,Urgente,"El cliente suena confundido, se cortó la llamada."
+SOL-0492,Alejandro Ruiz,Chatbot,2026-07-10,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Suscripción Premium,Tijuana,Urgente,Paquete maltratado por la paquetería.
+SOL-0344,,Chatbot,2026-06-25,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Producto X,Tijuana,Alta,
+SOL-0770,Luis Hernández,App Móvil,2026-06-24,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Banca Móvil,Puebla,Baja,Paquete maltratado por la paquetería.
+SOL-0309,Juan Pérez,Web,2026-06-19,"Pésima atención telefónica, me colgaron dos veces y sigo sin resolver mi problema con la factura.",Soporte Técnico,CDMX,,Dejar nota para el equipo de finanzas.
+SOL-0662,Laura Torrez,WhatsApp,2026-06-12,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Soporte Técnico,CDMX,Alta,
+SOL-0131,Ricardo Morales,Llamada,2026-06-12,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Facturación,Mérida,Alta,Cliente molesto porque no puede pagar su renta.
+SOL-0664,Roberto Flores,Web,2026-07-06,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Producto X,León,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0872,Patricia Silva,WhatsApp,2026-07-02,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,,León,,
+SOL-0100,Ana Gómez,Correo,2026-06-27,Error interno del servidor 500 al intentar realizar el pago con mi tarjeta de crédito.,Logística,León,Alta,
+SOL-0373,Elena Vasquez,Llamada,2026-07-08,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Facturación,Querétaro,Urgente,Solicita hablar con un supervisor de inmediato.
+SOL-0088,Carmen Jiménez,Web,2026-07-11,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",Suscripción Premium,León,Alta,
+SOL-0459,,WhatsApp,2026-06-26,El producto me llegó roto de una esquina. Adjunto foto. Qué hago?,Facturación,Mérida,Baja,Requiere seguimiento por correo al final del día.
+SOL-0331,Ricardo Morales,,2026-06-09,"No puedo restablecer mi contraseña, el enlace que me mandan por correo da error de expirado.",,,Alta,El cliente agradeció la explicación inicial.
+SOL-0215,Lucía Méndez,App Móvil,2026-06-11,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Smart TV 55,Monterrey,Alta,
+SOL-0467,Gabriela López,Llamada,2026-06-19,Mi pedido aparece como entregado en la página web pero yo no he recibido absolutamente nada.,Producto X,Mérida,Baja,Solicita hablar con un supervisor de inmediato.
+SOL-0122,Carmen Jiménez,Web,2026-06-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Soporte Técnico,Mérida,Baja,El cliente agradeció la explicación inicial.
+SOL-0615,María Rodríguez,WhatsApp,2026-06-11,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,Suscripción Premium,CDMX,,
+SOL-0021,Alejandro Ruiz,,2026-07-02,"Buenas tardes, quería saber cómo funciona la plataforma",Logística,CDMX,Alta,Solicita hablar con un supervisor de inmediato.
+SOL-0701,Ricardo Morales,WhatsApp,2026-07-01,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Smart TV 55,,,Es un cliente potencial nuevo.
+SOL-0072,Ana Gómez,Web,2026-06-16,¿Tienen envíos a la ciudad de Monterrey y cuánto tarda en llegar el producto?,,Puebla,,El cliente agradeció la explicación inicial.
+SOL-0107,Roberto Flores,App Móvil,2026-07-11,"Excelente servicio, el repartidor llegó muy rápido y el producto está en perfectas condiciones.",Producto X,Monterrey,Alta,Es un cliente potencial nuevo.
+SOL-0271,Fernando Ortiz,App Móvil,2026-07-06,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Producto X,Guadalajara,Baja,
+SOL-0861,Javier Ríos,WhatsApp,2026-06-30,¿Me pueden emitir factura con los datos que registré? Ya pasaron 3 días y no me llega nada.,,León,Urgente,
+SOL-0436,Diego Delgado,App Móvil,2026-06-06,Me llegó el cobro de la membresía premium pero yo lo cancelé el mes pasado. Exijo mi reembolso inmediatamente.,Suscripción Premium,Tijuana,,Requiere seguimiento por correo al final del día.
+SOL-0103,María Rodríguez,App Móvil,,El repartidor dice que vino a mi casa pero estuve todo el día y nadie tocó el timbre.,Smart TV 55,Monterrey,Media,
